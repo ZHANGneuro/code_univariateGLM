@@ -1,0 +1,146 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+12,2,0,0,3,endOfBlockPrompt,"nan",1578.258,1757.788,5393.695,5573.761
+12,2,0,0,3,5,"nan",0,0,5981.32,5981.32
+12,3,0,0,3,fixate,"nan",1.04895,4.314829,5982.353,5985.62
+12,3,0,0,12,prompt,"Should the US mandate vaccines for public health?",4.314829,10.13192,5985.621,5991.437
+12,3,0,0,1,msgSent,"On one hand, I want to say yes. But on the other, I can hear people arguing against it for personal or religious beliefs",10.13192,52.00171,5991.438,6033.307
+12,3,0,0,1,dislikesReceived,"3",57.05213,62.30263,6038.374,6043.607
+12,3,0,0,2,msgReceivedWords,"<lowercase>Oh,",86.40378,87.27457,6067.709,6068.58
+12,3,0,0,2,msgReceivedWords," ",87.28715,88.62146,6068.593,6069.927
+12,3,0,0,2,msgReceivedWords,"come ",88.63722,89.22897,6069.943,6070.535
+12,3,0,0,2,msgReceivedWords,"on! ",89.23724,90.43401,6070.543,6071.74
+12,3,0,0,2,msgReceivedWords,"Really? ",90.43728,91.21481,6071.743,6072.521
+12,3,0,0,2,msgReceivedWords,"Personal ",91.2207,92.21598,6072.526,6073.521
+12,3,0,0,2,msgReceivedWords,"or ",92.22076,93.59168,6073.526,6074.897
+12,3,0,0,2,msgReceivedWords,"religious ",93.60417,94.71268,6074.91,6076.018
+12,3,0,0,2,msgReceivedWords,"beliefs ",94.72089,96.0759,6076.027,6077.382
+12,3,0,0,2,msgReceivedWords,"shouldn’t ",96.08761,96.7049,6077.394,6078.011
+12,3,0,0,2,msgReceivedWords,"even ",96.721,98.06795,6078.027,6079.374
+12,3,0,0,2,msgReceivedWords,"be ",98.07108,99.4938,6079.377,6080.8
+12,3,0,0,2,msgReceivedWords,"in ",99.50446,100.7726,6080.811,6082.079
+12,3,0,0,2,msgReceivedWords,"this ",100.7878,102.1452,6082.094,6083.451
+12,3,0,0,2,msgReceivedWords,"conversation.",102.1546,102.8625,6083.46,6084.168
+12,3,0,0,2,msgReceivedWords," ",102.8712,103.9508,6084.177,6085.257
+12,3,0,0,2,msgReceivedWords,"It's ",103.9545,104.9407,6085.261,6086.247
+12,3,0,0,2,msgReceivedWords,"about ",104.9546,106.1427,6086.261,6087.449
+12,3,0,0,2,msgReceivedWords,"public ",106.1546,107.13,6087.461,6088.437
+12,3,0,0,2,msgReceivedWords,"health,",107.138,108.2851,6088.444,6089.591
+12,3,0,0,2,msgReceivedWords," ",108.2881,109.376,6089.594,6090.682
+12,3,0,0,2,msgReceivedWords,"not ",109.3882,110.0914,6090.694,6091.397
+12,3,0,0,2,msgReceivedWords,"individual ",110.1048,111.5885,6091.411,6092.895
+12,3,0,0,2,msgReceivedWords,"whims.",111.6049,112.5654,6092.911,6093.872
+12,3,0,0,2,msgReceivedWords," ",112.5716,113.9229,6093.878,6095.229
+12,3,0,0,2,msgReceivedWords,"People's ",113.9383,115.0772,6095.245,6096.384
+12,3,0,0,2,msgReceivedWords,"unwillingness ",115.0884,116.5262,6096.395,6097.833
+12,3,0,0,2,msgReceivedWords,"to ",116.5384,117.3371,6097.845,6098.644
+12,3,0,0,2,msgReceivedWords,"get ",117.3385,118.4153,6098.645,6099.722
+12,3,0,0,2,msgReceivedWords,"vaccinated ",118.4218,119.4073,6099.729,6100.714
+12,3,0,0,2,msgReceivedWords,"just ",119.4219,120.3031,6100.729,6101.61
+12,3,0,0,2,msgReceivedWords,"puts ",120.3053,120.9159,6101.612,6102.223
+12,3,0,0,2,msgReceivedWords,"everyone ",120.922,122.4034,6102.229,6103.71
+12,3,0,0,2,msgReceivedWords,"at ",122.4053,123.0446,6103.712,6104.351
+12,3,0,0,2,msgReceivedWords,"risk.",123.0554,124.4432,6104.362,6105.75
+12,3,0,0,2,msgReceivedWords," ",124.4554,124.9668,6105.762,6106.273
+12,3,0,0,2,msgReceivedWords,"It's ",124.9721,125.7577,6106.279,6107.064
+12,3,0,0,2,msgReceivedWords,"selfish,",125.7721,126.5031,6107.079,6107.81
+12,3,0,0,2,msgReceivedWords," ",126.5055,127.5736,6107.812,6108.88
+12,3,0,0,2,msgReceivedWords,"plain ",127.5889,128.6301,6108.896,6109.937
+12,3,0,0,2,msgReceivedWords,"and ",128.6388,129.4169,6109.946,6110.724
+12,3,0,0,2,msgReceivedWords,"simple.",129.4221,130.6124,6110.729,6111.919
+12,3,0,0,2,msgReceivedWords," ",130.6221,131.2839,6111.929,6112.591
+12,3,0,0,2,msgReceivedWords,"What's ",131.2887,132.6749,6112.596,6113.982
+12,3,0,0,2,msgReceivedWords,"your ",132.6886,134.1771,6113.996,6115.484
+12,3,0,0,2,msgReceivedWords,"take ",134.1885,135.2912,6115.496,6116.599
+12,3,0,0,2,msgReceivedWords,"on ",135.305,136.7072,6116.613,6118.015
+12,3,0,0,2,msgReceivedWords,"that?</lowercase>​",136.7216,137.9596,6118.03,6119.268
+12,3,0,0,2,msgReceived,"<lowercase>Oh, come on! Really? Personal or religious beliefs shouldn’t even be in this conversation. It's about public health, not individual whims. People's unwillingness to get vaccinated just puts everyone at risk. It's selfish, plain and simple. What's your take on that?</lowercase>​",86.40378,137.9715,6067.709,6119.28
+12,3,0,0,2,likeGiven,"+1",137.9715,138.9881,6119.28,6120.297
+12,3,0,0,2,nodislikeGiven,"0",137.9715,147.9708,6119.28,6129.28
+12,3,0,0,2,totalLikesGiven,"1",137.9715,147.9708,6119.28,6129.281
+12,3,0,0,3,msgSent,"I mean, I agree with you. i think that the greater good does take priority in this case. I'm just saying I don't think a federal mandate will work the way it was intended",148.9707,198.3855,6130.28,6179.701
+12,3,0,0,32,rewardPunish_4,"3",203.3853,204.6519,6184.701,6185.968
+12,3,0,0,3,dislikesReceived,"2",207.6185,211.0182,6188.951,6192.335
+12,3,0,0,4,msgReceivedWords,"<lowercase><lowercase>Yeah,",231.1172,232.425,6212.437,6213.744
+12,3,0,0,4,msgReceivedWords," ",232.4338,233.9174,6213.753,6215.236
+12,3,0,0,4,msgReceivedWords,"right,",233.9338,234.9249,6215.253,6216.245
+12,3,0,0,4,msgReceivedWords," ",234.9337,235.9649,6216.253,6217.285
+12,3,0,0,4,msgReceivedWords,"because ",235.9669,237.2229,6217.287,6218.542
+12,3,0,0,4,msgReceivedWords,"letting ",237.2336,238.0647,6218.554,6219.385
+12,3,0,0,4,msgReceivedWords,"everyone ",238.0668,238.5988,6219.387,6219.919
+12,3,0,0,4,msgReceivedWords,"do ",238.6001,239.8383,6219.92,6221.159
+12,3,0,0,4,msgReceivedWords,"whatever ",239.8501,240.4775,6221.17,6221.798
+12,3,0,0,4,msgReceivedWords,"they ",240.4834,241.8218,6221.804,6223.142
+12,3,0,0,4,msgReceivedWords,"want ",241.8333,243.1989,6223.154,6224.52
+12,3,0,0,4,msgReceivedWords,"has ",243.2,244.1078,6224.521,6225.428
+12,3,0,0,4,msgReceivedWords,"worked ",244.1166,245.0515,6225.438,6226.373
+12,3,0,0,4,msgReceivedWords,"out ",245.0666,246.1017,6226.387,6227.422
+12,3,0,0,4,msgReceivedWords,"so ",246.1165,246.9232,6227.438,6228.244
+12,3,0,0,4,msgReceivedWords,"well ",246.9332,248.2481,6228.254,6229.569
+12,3,0,0,4,msgReceivedWords,"so ",248.2499,249.2552,6229.571,6230.576
+12,3,0,0,4,msgReceivedWords,"far,",249.2665,250.1272,6230.588,6231.449
+12,3,0,0,4,msgReceivedWords," ",250.1331,250.9534,6231.455,6232.275
+12,3,0,0,4,msgReceivedWords,"huh? ",250.9665,251.7244,6232.288,6233.045
+12,3,0,0,4,msgReceivedWords,"The ",251.7331,252.3976,6233.055,6233.719
+12,3,0,0,4,msgReceivedWords,"federal ",252.3997,253.5094,6233.721,6234.831
+12,3,0,0,4,msgReceivedWords,"mandate ",253.5163,254.4288,6234.838,6235.75
+12,3,0,0,4,msgReceivedWords,"is ",254.4329,255.7188,6235.755,6237.041
+12,3,0,0,4,msgReceivedWords,"necessary ",255.7328,256.7364,6237.055,6238.058
+12,3,0,0,4,msgReceivedWords,"precisely ",256.7496,258.1837,6238.072,6239.506
+12,3,0,0,4,msgReceivedWords,"because ",258.2001,259.3797,6239.521,6240.701
+12,3,0,0,4,msgReceivedWords,"people ",259.3838,260.5627,6240.705,6241.884
+12,3,0,0,4,msgReceivedWords,"won't ",260.5674,262.0415,6241.889,6243.363
+12,3,0,0,4,msgReceivedWords,"do ",262.0514,262.9748,6243.372,6244.295
+12,3,0,0,4,msgReceivedWords,"the ",262.985,263.7169,6244.305,6245.037
+12,3,0,0,4,msgReceivedWords,"right ",263.7185,264.6464,6245.039,6245.966
+12,3,0,0,4,msgReceivedWords,"thing ",264.6522,265.4,6245.972,6246.72
+12,3,0,0,4,msgReceivedWords,"on ",265.4024,266.0711,6246.722,6247.391
+12,3,0,0,4,msgReceivedWords,"their ",266.086,267.4525,6247.406,6248.772
+12,3,0,0,4,msgReceivedWords,"own.",267.4531,268.8516,6248.772,6250.171
+12,3,0,0,4,msgReceivedWords," ",268.8534,269.861,6250.172,6251.18
+12,3,0,0,4,msgReceivedWords,"</lowercase></lowercase>​",269.8703,270.426,6251.189,6251.745
+12,3,0,0,4,msgReceived,"<lowercase><lowercase>Yeah, right, because letting everyone do whatever they want has worked out so well so far, huh? The federal mandate is necessary precisely because people won't do the right thing on their own. </lowercase></lowercase>​",231.1172,270.4371,6212.437,6251.756
+12,3,0,0,4,nodislikeGiven,"0",270.4371,280.4401,6251.756,6261.757
+12,3,0,0,4,noLikeGiven,"0",270.4371,280.4401,6251.756,6261.757
+12,3,0,0,5,msgSent,"well sometimes, certain physically cannot get vaccinated. Don't some of them cause harm to people with prexisting conditions?Would you have a federal mandate make that person also receive it?",281.4403,346.4931,6262.757,6327.795
+12,3,0,0,33,rewardPunish_0,"10",351.4944,352.6115,6332.795,6333.912
+12,3,0,0,5,dislikesReceived,"1",354.6622,356.3462,6335.979,6337.646
+12,3,0,0,6,msgReceivedWords,"<lowercase><lowercase>Oh,",396.4423,397.6724,6377.732,6378.962
+12,3,0,0,6,msgReceivedWords," ",397.676,398.6821,6378.965,6379.971
+12,3,0,0,6,msgReceivedWords,"come ",398.6929,399.6494,6379.982,6380.938
+12,3,0,0,6,msgReceivedWords,"on,",399.6599,400.8589,6380.949,6382.148
+12,3,0,0,6,msgReceivedWords," ",400.8601,401.7865,6382.148,6383.075
+12,3,0,0,6,msgReceivedWords,"you’re ",401.7937,402.4302,6383.082,6383.719
+12,3,0,0,6,msgReceivedWords,"just ",402.4439,403.6605,6383.732,6384.949
+12,3,0,0,6,msgReceivedWords,"nitpicking ",403.661,404.4819,6384.949,6385.77
+12,3,0,0,6,msgReceivedWords,"now! ",404.4945,405.249,6385.782,6386.537
+12,3,0,0,6,msgReceivedWords,"Obviously,",405.2614,406.2023,6386.549,6387.49
+12,3,0,0,6,msgReceivedWords," ",406.2116,407.014,6387.499,6388.301
+12,3,0,0,6,msgReceivedWords,"exceptions ",407.0286,408.2191,6388.316,6389.506
+12,3,0,0,6,msgReceivedWords,"for ",408.2289,409.722,6389.516,6391.009
+12,3,0,0,6,msgReceivedWords,"medical ",409.7293,410.6954,6391.016,6391.982
+12,3,0,0,6,msgReceivedWords,"reasons ",410.6963,411.8643,6391.982,6393.15
+12,3,0,0,6,msgReceivedWords,"are ",411.88,413.2202,6393.166,6394.506
+12,3,0,0,6,msgReceivedWords,"valid,",413.2304,414.3549,6394.516,6395.641
+12,3,0,0,6,msgReceivedWords," ",414.3641,415.164,6395.649,6396.449
+12,3,0,0,6,msgReceivedWords,"but ",415.1644,415.8587,6396.45,6397.144
+12,3,0,0,6,msgReceivedWords,"you’re ",415.8646,417.2836,6397.15,6398.569
+12,3,0,0,6,msgReceivedWords,"using ",417.2984,418.3091,6398.583,6399.594
+12,3,0,0,6,msgReceivedWords,"that ",418.3154,419.3235,6399.6,6400.608
+12,3,0,0,6,msgReceivedWords,"tiny ",419.3324,420.814,6400.617,6402.098
+12,3,0,0,6,msgReceivedWords,"minority ",420.8163,421.5734,6402.1,6402.857
+12,3,0,0,6,msgReceivedWords,"to ",421.5832,422.2732,6402.867,6403.557
+12,3,0,0,6,msgReceivedWords,"undermine ",422.2835,423.222,6403.567,6404.505
+12,3,0,0,6,msgReceivedWords,"the ",423.2338,423.7636,6404.517,6405.047
+12,3,0,0,6,msgReceivedWords,"entire ",423.7673,424.9301,6405.05,6406.213
+12,3,0,0,6,msgReceivedWords,"concept ",424.9343,425.7409,6406.217,6407.023
+12,3,0,0,6,msgReceivedWords,"of ",425.7512,426.8809,6407.034,6408.164
+12,3,0,0,6,msgReceivedWords,"mandatory ",426.8849,427.8714,6408.167,6409.153
+12,3,0,0,6,msgReceivedWords,"vaccines.",427.8852,428.8111,6409.167,6410.093
+12,3,0,0,6,msgReceivedWords,"</lowercase></lowercase>​",428.8188,430.1378,6410.101,6411.42
+12,3,0,0,6,msgReceived,"<lowercase><lowercase>Oh, come on, you’re just nitpicking now! Obviously, exceptions for medical reasons are valid, but you’re using that tiny minority to undermine the entire concept of mandatory vaccines.</lowercase></lowercase>​",396.4423,430.1525,6377.731,6411.434
+12,3,0,0,6,likeGiven,"+1",430.1525,431.8531,6411.435,6413.135
+12,3,0,0,6,nodislikeGiven,"0",430.1525,440.1556,6411.435,6421.435
+12,3,0,0,6,totalLikesGiven,"1",430.1525,440.1556,6411.435,6421.435
+12,3,0,0,12,feelings,"sad",443.6732,449.9751,6424.952,6431.252
+12,3,0,0,12,likability,"3",453.5094,455.9267,6434.786,6437.203
+12,3,0,0,12,likabilityRev,"2",458.3106,463.1617,6439.586,6444.437

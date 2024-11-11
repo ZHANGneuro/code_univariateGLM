@@ -1,0 +1,113 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+11,2,0,1,11,prompt,"Should the US impose higher taxes on the wealthy?",1189.823,1193.761,5005.601,5009.534
+11,2,0,1,1,msgSent,"I absolutely think that the US should impose higher taxes on the wealthy",1193.761,1218.183,5009.534,5033.936
+11,2,0,1,1,likeReceived,"1",1223.236,1225.887,5039.002,5041.636
+11,2,0,1,1,likeReceived,"1",1225.887,1227.955,5041.636,5043.703
+11,2,0,1,1,likesReceivedTotal,"1",1223.236,1227.955,5039.002,5043.703
+11,2,0,1,2,msgReceivedWords,"<lowercase>Totally ",1244.053,1245.234,5059.788,5060.968
+11,2,0,1,2,msgReceivedWords,"agree! ",1245.237,1246.5,5060.971,5062.233
+11,2,0,1,2,msgReceivedWords,"It ",1246.506,1247.609,5062.238,5063.341
+11,2,0,1,2,msgReceivedWords,"seems ",1247.623,1248.203,5063.354,5063.935
+11,2,0,1,2,msgReceivedWords,"fair ",1248.207,1248.944,5063.938,5064.675
+11,2,0,1,2,msgReceivedWords,"to ",1248.958,1250.018,5064.688,5065.748
+11,2,0,1,2,msgReceivedWords,"ask ",1250.026,1250.764,5065.754,5066.493
+11,2,0,1,2,msgReceivedWords,"those ",1250.777,1251.297,5066.504,5067.025
+11,2,0,1,2,msgReceivedWords,"who've ",1251.311,1252.304,5067.038,5068.031
+11,2,0,1,2,msgReceivedWords,"benefited ",1252.312,1253.576,5068.038,5069.302
+11,2,0,1,2,msgReceivedWords,"the ",1253.58,1254.731,5069.305,5070.455
+11,2,0,1,2,msgReceivedWords,"most ",1254.731,1255.458,5070.455,5071.182
+11,2,0,1,2,msgReceivedWords,"to ",1255.465,1256.669,5071.188,5072.392
+11,2,0,1,2,msgReceivedWords,"contribute ",1256.683,1257.743,5072.405,5073.466
+11,2,0,1,2,msgReceivedWords,"a ",1257.751,1258.839,5073.472,5074.56
+11,2,0,1,2,msgReceivedWords,"bit ",1258.852,1259.865,5074.572,5075.584
+11,2,0,1,2,msgReceivedWords,"more,",1259.87,1261.029,5075.588,5076.748
+11,2,0,1,2,msgReceivedWords," ",1261.038,1262.278,5076.755,5077.996
+11,2,0,1,2,msgReceivedWords,"right?</lowercase>​",1262.289,1262.831,5078.005,5078.547
+11,2,0,1,2,msgReceived,"<lowercase>Totally agree! It seems fair to ask those who've benefited the most to contribute a bit more, right?</lowercase>​",1244.053,1262.839,5059.788,5078.556
+11,2,0,1,2,likeGiven,"+1",1262.839,1264.625,5078.556,5080.339
+11,2,0,1,2,likeGiven,"+1",1262.839,1265.51,5078.556,5081.223
+11,2,0,1,2,nodislikeGiven,"0",1262.839,1272.851,5078.556,5088.556
+11,2,0,1,2,totalLikesGiven,"2",1262.839,1272.851,5078.556,5088.556
+11,2,0,1,3,msgSent,"Exactly, i think the divide between the middle class and the wealthy is so large, that it feels unfair to not tax the rich much more",1273.851,1311.153,5089.556,5126.826
+11,2,0,1,30,rewardPunish_0,"10",1316.159,1317.56,5131.826,5133.226
+11,2,0,1,3,likeReceived,"1",1319.595,1321.781,5135.276,5137.443
+11,2,0,1,3,likeReceived,"1",1321.781,1325.034,5137.443,5140.693
+11,2,0,1,3,likesReceivedTotal,"1",1319.595,1325.034,5135.276,5140.693
+11,2,0,1,4,msgReceivedWords,"<lowercase>Right? ",1389.194,1390.436,5204.798,5206.04
+11,2,0,1,4,msgReceivedWords,"The ",1390.446,1391.19,5206.048,5206.792
+11,2,0,1,4,msgReceivedWords,"gap ",1391.197,1392.399,5206.798,5208
+11,2,0,1,4,msgReceivedWords,"just ",1392.414,1393.138,5208.015,5208.738
+11,2,0,1,4,msgReceivedWords,"keeps ",1393.148,1393.852,5208.748,5209.452
+11,2,0,1,4,msgReceivedWords,"growing.",1393.866,1394.618,5209.465,5210.217
+11,2,0,1,4,msgReceivedWords," ",1394.634,1395.264,5210.231,5210.862
+11,2,0,1,4,msgReceivedWords,"It ",1395.267,1396.546,5210.865,5212.143
+11,2,0,1,4,msgReceivedWords,"makes ",1396.552,1397.342,5212.148,5212.938
+11,2,0,1,4,msgReceivedWords,"sense ",1397.353,1398.141,5212.948,5213.736
+11,2,0,1,4,msgReceivedWords,"to ",1398.153,1398.734,5213.749,5214.329
+11,2,0,1,4,msgReceivedWords,"use ",1398.738,1400.115,5214.332,5215.709
+11,2,0,1,4,msgReceivedWords,"that ",1400.123,1401.056,5215.715,5216.649
+11,2,0,1,4,msgReceivedWords,"money ",1401.073,1401.906,5216.666,5217.499
+11,2,0,1,4,msgReceivedWords,"to ",1401.906,1402.542,5217.499,5218.135
+11,2,0,1,4,msgReceivedWords,"help ",1402.557,1403.549,5218.149,5219.141
+11,2,0,1,4,msgReceivedWords,"bridge ",1403.557,1404.741,5219.149,5220.332
+11,2,0,1,4,msgReceivedWords,"that ",1404.742,1405.442,5220.333,5221.032
+11,2,0,1,4,msgReceivedWords,"divide.",1405.443,1406.236,5221.032,5221.825
+11,2,0,1,4,msgReceivedWords," ",1406.244,1407.658,5221.833,5223.247
+11,2,0,1,4,msgReceivedWords,"What ",1407.662,1408.441,5223.249,5224.027
+11,2,0,1,4,msgReceivedWords,"kind ",1408.446,1409.698,5224.033,5225.285
+11,2,0,1,4,msgReceivedWords,"of ",1409.715,1410.351,5225.299,5225.935
+11,2,0,1,4,msgReceivedWords,"programs ",1410.366,1411.798,5225.949,5227.381
+11,2,0,1,4,msgReceivedWords,"do ",1411.801,1412.791,5227.383,5228.373
+11,2,0,1,4,msgReceivedWords,"you ",1412.802,1413.948,5228.383,5229.529
+11,2,0,1,4,msgReceivedWords,"think ",1413.954,1415.017,5229.533,5230.597
+11,2,0,1,4,msgReceivedWords,"would ",1415.022,1415.682,5230.6,5231.26
+11,2,0,1,4,msgReceivedWords,"benefit ",1415.689,1416.35,5231.267,5231.928
+11,2,0,1,4,msgReceivedWords,"the ",1416.357,1416.929,5231.933,5232.506
+11,2,0,1,4,msgReceivedWords,"most ",1416.941,1418.37,5232.517,5233.946
+11,2,0,1,4,msgReceivedWords,"from ",1418.375,1419.29,5233.95,5234.864
+11,2,0,1,4,msgReceivedWords,"this?</lowercase>​",1419.293,1420.766,5234.867,5236.339
+11,2,0,1,4,msgReceived,"<lowercase>Right? The gap just keeps growing. It makes sense to use that money to help bridge that divide. What kind of programs do you think would benefit the most from this?</lowercase>​",1389.194,1420.778,5204.798,5236.35
+11,2,0,1,4,likeGiven,"+1",1420.778,1422.346,5236.351,5237.917
+11,2,0,1,4,likeGiven,"+1",1420.778,1423.43,5236.351,5239
+11,2,0,1,4,nodislikeGiven,"0",1420.778,1430.785,5236.351,5246.351
+11,2,0,1,4,totalLikesGiven,"2",1420.778,1430.785,5236.351,5246.351
+11,2,0,1,5,msgSent,"Considering where I live, I would say the homeless population should be the first group to receive aid from taxing the rich",1431.786,1478.094,5247.351,5293.621
+11,2,0,1,31,rewardPunish_2,"10",1483.099,1484.266,5298.621,5299.788
+11,2,0,1,5,likeReceived,"1",1486.719,1490.139,5302.255,5305.655
+11,2,0,1,5,likeReceived,"1",1490.139,1492.993,5305.655,5308.505
+11,2,0,1,5,likeReceived,"1",1492.993,1496.013,5308.505,5311.522
+11,2,0,1,5,likeReceived,"1",1496.013,1497.731,5311.522,5313.239
+11,2,0,1,5,likeReceived,"1",1497.731,1500.901,5313.239,5316.406
+11,2,0,1,5,likesReceivedTotal,"4",1486.719,1500.901,5302.255,5316.406
+11,2,0,1,6,msgReceivedWords,"<lowercase><lowercase>That's ",1521.018,1521.679,5336.507,5337.167
+11,2,0,1,6,msgReceivedWords,"a ",1521.686,1522.812,5337.174,5338.3
+11,2,0,1,6,msgReceivedWords,"great ",1522.82,1524.306,5338.308,5339.794
+11,2,0,1,6,msgReceivedWords,"point.",1524.321,1525.216,5339.808,5340.703
+11,2,0,1,6,msgReceivedWords," ",1525.222,1526.103,5340.708,5341.588
+11,2,0,1,6,msgReceivedWords,"Helping ",1526.106,1527.266,5341.591,5342.75
+11,2,0,1,6,msgReceivedWords,"the ",1527.274,1528.496,5342.758,5343.979
+11,2,0,1,6,msgReceivedWords,"homeless ",1528.509,1529.512,5343.991,5344.995
+11,2,0,1,6,msgReceivedWords,"would ",1529.527,1530.472,5345.008,5345.953
+11,2,0,1,6,msgReceivedWords,"definitely ",1530.478,1531.344,5345.958,5346.824
+11,2,0,1,6,msgReceivedWords,"be ",1531.345,1532.389,5346.825,5347.869
+11,2,0,1,6,msgReceivedWords,"a ",1532.396,1533.656,5347.875,5349.135
+11,2,0,1,6,msgReceivedWords,"good ",1533.664,1534.474,5349.142,5349.952
+11,2,0,1,6,msgReceivedWords,"start.",1534.481,1535.802,5349.958,5351.279
+11,2,0,1,6,msgReceivedWords," ",1535.816,1536.932,5351.292,5352.407
+11,2,0,1,6,msgReceivedWords,"Maybe ",1536.934,1538.02,5352.409,5353.495
+11,2,0,1,6,msgReceivedWords,"funding ",1538.035,1538.839,5353.509,5354.313
+11,2,0,1,6,msgReceivedWords,"more ",1538.852,1540.156,5354.325,5355.629
+11,2,0,1,6,msgReceivedWords,"affordable ",1540.17,1541.643,5355.642,5357.115
+11,2,0,1,6,msgReceivedWords,"housing ",1541.655,1543.029,5357.125,5358.499
+11,2,0,1,6,msgReceivedWords,"programs,",1543.04,1543.612,5358.509,5359.081
+11,2,0,1,6,msgReceivedWords," ",1543.624,1544.817,5359.092,5360.286
+11,2,0,1,6,msgReceivedWords,"too?</lowercase></lowercase>​",1544.826,1546.297,5360.292,5361.764
+11,2,0,1,6,msgReceived,"<lowercase><lowercase>That's a great point. Helping the homeless would definitely be a good start. Maybe funding more affordable housing programs, too?</lowercase></lowercase>​",1521.018,1546.311,5336.507,5361.776
+11,2,0,1,6,likeGiven,"+1",1546.311,1553.769,5361.776,5369.227
+11,2,0,1,6,likeGiven,"+1",1546.311,1553.953,5361.776,5369.41
+11,2,0,1,6,likeGiven,"+1",1546.311,1555.27,5361.776,5370.727
+11,2,0,1,6,nodislikeGiven,"0",1546.311,1556.321,5361.776,5371.776
+11,2,0,1,6,totalLikesGiven,"3",1546.311,1556.321,5361.776,5371.777
+11,2,0,1,11,feelings,"vhappy",1559.843,1564.481,5375.294,5379.927
+11,2,0,1,11,likability,"8",1567.449,1570.685,5382.895,5386.128
+11,2,0,1,11,likabilityRev,"8",1574.089,1576.172,5389.528,5391.611

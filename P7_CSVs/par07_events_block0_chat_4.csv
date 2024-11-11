@@ -1,0 +1,150 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+3,0,0,1,3,prompt,"Should AI be regulated?",1160.077,1165.917,1195.21,1201.044
+3,0,0,1,1,msgSent,"yes, I think that AI needs to be regulated to be safe",1165.917,1184.454,1201.044,1219.562
+3,0,0,1,1,likeReceived,"1",1189.509,1192.412,1224.629,1227.512
+3,0,0,1,1,likeReceived,"1",1192.412,1194.565,1227.512,1229.662
+3,0,0,1,1,likeReceived,"1",1194.565,1196.116,1229.662,1231.212
+3,0,0,1,1,likesReceivedTotal,"2",1189.509,1196.116,1224.629,1231.212
+3,0,0,1,2,msgReceivedWords,"<lowercase>Totally ",1212.227,1212.752,1247.314,1247.838
+3,0,0,1,2,msgReceivedWords,"agree ",1212.761,1214.065,1247.847,1249.152
+3,0,0,1,2,msgReceivedWords,"with ",1214.079,1214.64,1249.164,1249.725
+3,0,0,1,2,msgReceivedWords,"you! ",1214.646,1215.373,1249.73,1250.457
+3,0,0,1,2,msgReceivedWords,"Safety ",1215.38,1216.373,1250.464,1251.457
+3,0,0,1,2,msgReceivedWords,"should ",1216.38,1216.913,1251.464,1251.997
+3,0,0,1,2,msgReceivedWords,"definitely ",1216.914,1217.547,1251.997,1252.63
+3,0,0,1,2,msgReceivedWords,"be ",1217.548,1218.151,1252.631,1253.233
+3,0,0,1,2,msgReceivedWords,"a ",1218.165,1219.376,1253.247,1254.458
+3,0,0,1,2,msgReceivedWords,"priority.",1219.384,1219.987,1254.464,1255.068
+3,0,0,1,2,msgReceivedWords," ",1220.001,1221.002,1255.081,1256.082
+3,0,0,1,2,msgReceivedWords,"What ",1221.019,1222.098,1256.098,1257.177
+3,0,0,1,2,msgReceivedWords,"aspects ",1222.104,1223.122,1257.181,1258.199
+3,0,0,1,2,msgReceivedWords,"of ",1223.138,1223.941,1258.214,1259.018
+3,0,0,1,2,msgReceivedWords,"AI ",1223.955,1224.885,1259.031,1259.961
+3,0,0,1,2,msgReceivedWords,"do ",1224.889,1226.195,1259.964,1261.271
+3,0,0,1,2,msgReceivedWords,"you ",1226.208,1227.699,1261.281,1262.772
+3,0,0,1,2,msgReceivedWords,"think ",1227.709,1228.936,1262.781,1264.008
+3,0,0,1,2,msgReceivedWords,"need ",1228.944,1229.677,1264.015,1264.748
+3,0,0,1,2,msgReceivedWords,"the ",1229.678,1231.162,1264.748,1266.232
+3,0,0,1,2,msgReceivedWords,"most ",1231.179,1232.016,1266.248,1267.085
+3,0,0,1,2,msgReceivedWords,"regulation?</lowercase>​",1232.03,1232.855,1267.098,1267.923
+3,0,0,1,2,msgReceived,"<lowercase>Totally agree with you! Safety should definitely be a priority. What aspects of AI do you think need the most regulation?</lowercase>​",1212.227,1232.864,1247.313,1267.932
+3,0,0,1,2,likeGiven,"+1",1232.864,1237.085,1267.932,1272.149
+3,0,0,1,2,likeGiven,"+1",1232.864,1237.285,1267.932,1272.349
+3,0,0,1,2,likeGiven,"+1",1232.864,1237.953,1267.932,1273.016
+3,0,0,1,2,dislikeGiven,"+1",1232.864,1239.287,1267.932,1274.349
+3,0,0,1,2,likeGiven,"+1",1232.864,1240.171,1267.932,1275.233
+3,0,0,1,2,dislikeGiven,"+1",1232.864,1242.774,1267.932,1277.833
+3,0,0,1,2,totalDislikesGiven,"2",1232.864,1242.874,1267.932,1277.932
+3,0,0,1,2,totalLikesGiven,"4",1232.864,1242.874,1267.932,1277.932
+3,0,0,1,3,msgSent,"I think that AI image generation needs to be regulated the most",1243.875,1265.878,1278.932,1300.917
+3,0,0,1,9,rewardPunish_2,"10",1270.882,1274.384,1305.918,1309.418
+3,0,0,1,3,likeReceived,"1",1277.404,1279.307,1312.452,1314.335
+3,0,0,1,3,likeReceived,"1",1279.307,1282.728,1314.335,1317.752
+3,0,0,1,3,likeReceived,"1",1282.728,1284.412,1317.752,1319.435
+3,0,0,1,3,likeReceived,"1",1284.412,1286.331,1319.435,1321.352
+3,0,0,1,3,likeReceived,"1",1286.331,1288.851,1321.352,1323.869
+3,0,0,1,3,likesReceivedTotal,"4",1277.404,1288.851,1312.452,1323.869
+3,0,0,1,4,msgReceivedWords,"<lowercase><lowercase>That's ",1292.955,1294.212,1327.97,1329.226
+3,0,0,1,4,msgReceivedWords,"a ",1294.223,1295.308,1329.236,1330.321
+3,0,0,1,4,msgReceivedWords,"great ",1295.323,1296.593,1330.336,1331.605
+3,0,0,1,4,msgReceivedWords,"point! ",1296.608,1297.853,1331.62,1332.865
+3,0,0,1,4,msgReceivedWords,"AI-generated ",1297.859,1298.769,1332.87,1333.78
+3,0,0,1,4,msgReceivedWords,"images ",1298.777,1299.949,1333.786,1334.959
+3,0,0,1,4,msgReceivedWords,"can ",1299.962,1301.203,1334.97,1336.211
+3,0,0,1,4,msgReceivedWords,"really ",1301.213,1302.63,1336.22,1337.637
+3,0,0,1,4,msgReceivedWords,"blur ",1302.647,1303.488,1337.653,1338.494
+3,0,0,1,4,msgReceivedWords,"the ",1303.498,1304.32,1338.503,1339.326
+3,0,0,1,4,msgReceivedWords,"lines ",1304.333,1305.48,1339.337,1340.485
+3,0,0,1,4,msgReceivedWords,"between ",1305.484,1306.192,1340.487,1341.195
+3,0,0,1,4,msgReceivedWords,"reality ",1306.201,1306.911,1341.204,1341.913
+3,0,0,1,4,msgReceivedWords,"and ",1306.919,1308.197,1341.92,1343.198
+3,0,0,1,4,msgReceivedWords,"fiction.",1308.204,1309.656,1343.204,1344.655
+3,0,0,1,4,msgReceivedWords," ",1309.672,1310.413,1344.671,1345.411
+3,0,0,1,4,msgReceivedWords,"How ",1310.423,1311.422,1345.421,1346.42
+3,0,0,1,4,msgReceivedWords,"do ",1311.423,1312.164,1346.421,1347.161
+3,0,0,1,4,msgReceivedWords,"you ",1312.174,1312.902,1347.171,1347.899
+3,0,0,1,4,msgReceivedWords,"think ",1312.908,1314.285,1347.904,1349.281
+3,0,0,1,4,msgReceivedWords,"regulations ",1314.293,1315.487,1349.288,1350.482
+3,0,0,1,4,msgReceivedWords,"could ",1315.494,1316.792,1350.488,1351.785
+3,0,0,1,4,msgReceivedWords,"help ",1316.796,1318.133,1351.788,1353.125
+3,0,0,1,4,msgReceivedWords,"control ",1318.147,1318.752,1353.138,1353.743
+3,0,0,1,4,msgReceivedWords,"that?</lowercase></lowercase>​",1318.765,1319.326,1353.755,1354.316
+3,0,0,1,4,msgReceived,"<lowercase><lowercase>That's a great point! AI-generated images can really blur the lines between reality and fiction. How do you think regulations could help control that?</lowercase></lowercase>​",1292.955,1319.332,1327.969,1354.321
+3,0,0,1,4,likeGiven,"+1",1319.332,1323.753,1354.322,1358.739
+3,0,0,1,4,nodislikeGiven,"0",1319.332,1329.341,1354.322,1364.322
+3,0,0,1,4,totalLikesGiven,"1",1319.332,1329.341,1354.322,1364.322
+3,0,0,1,5,msgSent,"If use of AI generated images are regulated, people wont have unrealistic aspirations for thier bodies, for example",1330.341,1373.564,1365.322,1408.509
+3,0,0,1,10,rewardPunish_4,"3",1378.567,1379.935,1413.509,1414.876
+3,0,0,1,5,likeReceived,"1",1381.987,1385.007,1416.942,1419.943
+3,0,0,1,5,likeReceived,"1",1385.007,1388.308,1419.943,1423.243
+3,0,0,1,5,likeReceived,"1",1388.308,1391.692,1423.243,1426.626
+3,0,0,1,5,likesReceivedTotal,"2",1381.987,1391.692,1416.942,1426.626
+3,0,0,1,6,msgReceivedWords,"<lowercase><lowercase>Exactly,",1411.83,1412.823,1446.745,1447.738
+3,0,0,1,6,msgReceivedWords," ",1412.832,1413.878,1447.745,1448.791
+3,0,0,1,6,msgReceivedWords,"it ",1413.883,1415.275,1448.795,1450.187
+3,0,0,1,6,msgReceivedWords,"could ",1415.284,1416.367,1450.195,1451.278
+3,0,0,1,6,msgReceivedWords,"really ",1416.369,1417.462,1451.278,1452.372
+3,0,0,1,6,msgReceivedWords,"help ",1417.47,1418.38,1452.378,1453.289
+3,0,0,1,6,msgReceivedWords,"with ",1418.387,1419.284,1453.295,1454.192
+3,0,0,1,6,msgReceivedWords,"mental ",1419.288,1420.457,1454.195,1455.364
+3,0,0,1,6,msgReceivedWords,"health ",1420.473,1421.667,1455.379,1456.573
+3,0,0,1,6,msgReceivedWords,"by ",1421.674,1422.471,1456.579,1457.376
+3,0,0,1,6,msgReceivedWords,"setting ",1422.474,1423.597,1457.379,1458.501
+3,0,0,1,6,msgReceivedWords,"more ",1423.609,1424.469,1458.512,1459.371
+3,0,0,1,6,msgReceivedWords,"realistic ",1424.477,1425.723,1459.379,1460.625
+3,0,0,1,6,msgReceivedWords,"standards.",1425.729,1427.106,1460.629,1462.006
+3,0,0,1,6,msgReceivedWords," ",1427.114,1427.775,1462.012,1462.674
+3,0,0,1,6,msgReceivedWords,"It's ",1427.781,1428.916,1462.679,1463.815
+3,0,0,1,6,msgReceivedWords,"super ",1428.932,1430.127,1463.829,1465.025
+3,0,0,1,6,msgReceivedWords,"important ",1430.133,1431.527,1465.029,1466.423
+3,0,0,1,6,msgReceivedWords,"to ",1431.534,1432.422,1466.429,1467.317
+3,0,0,1,6,msgReceivedWords,"consider ",1432.435,1433.71,1467.329,1468.605
+3,0,0,1,6,msgReceivedWords,"the ",1433.718,1435.14,1468.613,1470.034
+3,0,0,1,6,msgReceivedWords,"ethical ",1435.153,1436.169,1470.046,1471.063
+3,0,0,1,6,msgReceivedWords,"side ",1436.17,1436.985,1471.063,1471.878
+3,0,0,1,6,msgReceivedWords,"of ",1436.988,1438.461,1471.88,1473.353
+3,0,0,1,6,msgReceivedWords,"things ",1438.473,1439.685,1473.363,1474.575
+3,0,0,1,6,msgReceivedWords,"too,",1439.691,1440.501,1474.58,1475.391
+3,0,0,1,6,msgReceivedWords," ",1440.508,1441.799,1475.397,1476.687
+3,0,0,1,6,msgReceivedWords,"right?</lowercase></lowercase>​",1441.809,1442.87,1476.697,1477.758
+3,0,0,1,6,msgReceived,"<lowercase><lowercase>Exactly, it could really help with mental health by setting more realistic standards. It's super important to consider the ethical side of things too, right?</lowercase></lowercase>​",1411.83,1442.877,1446.745,1477.763
+3,0,0,1,6,likeGiven,"+1",1442.877,1447.048,1477.764,1481.931
+3,0,0,1,6,likeGiven,"+1",1442.877,1447.932,1477.764,1482.814
+3,0,0,1,6,likeGiven,"+1",1442.877,1448.298,1477.764,1483.181
+3,0,0,1,6,nodislikeGiven,"0",1442.877,1452.885,1477.764,1487.764
+3,0,0,1,6,totalLikesGiven,"3",1442.877,1452.885,1477.764,1487.764
+3,0,0,1,7,msgSent,"I agree",1453.885,1469.686,1488.764,1504.549
+3,0,0,1,11,rewardPunish_0,"10",1474.69,1477.292,1509.549,1512.149
+3,0,0,1,7,likeReceived,"1",1479.627,1481.645,1514.5,1516.5
+3,0,0,1,7,likeReceived,"1",1481.645,1484.966,1516.5,1519.816
+3,0,0,1,7,likeReceived,"1",1484.966,1486.918,1519.816,1521.767
+3,0,0,1,7,likesReceivedTotal,"2",1479.627,1486.918,1514.5,1521.767
+3,0,0,1,8,msgReceivedWords,"<lowercase><lowercase>It's ",1499.031,1499.54,1533.868,1534.376
+3,0,0,1,8,msgReceivedWords,"good ",1499.549,1500.302,1534.384,1535.138
+3,0,0,1,8,msgReceivedWords,"we ",1500.316,1501.705,1535.151,1536.54
+3,0,0,1,8,msgReceivedWords,"see ",1501.716,1503.084,1536.551,1537.918
+3,0,0,1,8,msgReceivedWords,"eye ",1503.102,1504.57,1537.934,1539.403
+3,0,0,1,8,msgReceivedWords,"to ",1504.587,1505.52,1539.418,1540.351
+3,0,0,1,8,msgReceivedWords,"eye ",1505.521,1506.813,1540.351,1541.644
+3,0,0,1,8,msgReceivedWords,"on ",1506.822,1507.866,1541.651,1542.696
+3,0,0,1,8,msgReceivedWords,"this.",1507.872,1508.515,1542.701,1543.345
+3,0,0,1,8,msgReceivedWords," ",1508.522,1509.078,1543.352,1543.908
+3,0,0,1,8,msgReceivedWords,"What ",1509.089,1509.6,1543.918,1544.429
+3,0,0,1,8,msgReceivedWords,"other ",1509.606,1510.844,1544.435,1545.673
+3,0,0,1,8,msgReceivedWords,"areas ",1510.857,1511.829,1545.685,1546.657
+3,0,0,1,8,msgReceivedWords,"of ",1511.841,1512.763,1546.668,1547.59
+3,0,0,1,8,msgReceivedWords,"AI ",1512.775,1513.51,1547.602,1548.338
+3,0,0,1,8,msgReceivedWords,"do ",1513.525,1514.256,1548.352,1549.083
+3,0,0,1,8,msgReceivedWords,"you ",1514.259,1515.667,1549.085,1550.493
+3,0,0,1,8,msgReceivedWords,"think ",1515.677,1516.602,1550.502,1551.427
+3,0,0,1,8,msgReceivedWords,"could ",1516.611,1517.579,1551.435,1552.403
+3,0,0,1,8,msgReceivedWords,"benefit ",1517.596,1518.482,1552.419,1553.305
+3,0,0,1,8,msgReceivedWords,"from ",1518.496,1519.831,1553.319,1554.654
+3,0,0,1,8,msgReceivedWords,"regulations?</lowercase></lowercase>​",1519.848,1520.389,1554.669,1555.211
+3,0,0,1,8,msgReceived,"<lowercase><lowercase>It's good we see eye to eye on this. What other areas of AI do you think could benefit from regulations?</lowercase></lowercase>​",1499.031,1520.398,1533.868,1555.219
+3,0,0,1,8,likeGiven,"+1",1520.398,1524.151,1555.22,1558.97
+3,0,0,1,8,nodislikeGiven,"0",1520.398,1530.405,1555.22,1565.22
+3,0,0,1,8,totalLikesGiven,"1",1520.398,1530.405,1555.22,1565.22
+3,0,0,1,3,feelings,"done",1533.942,1537.745,1568.754,1572.554
+3,0,0,1,3,likability,"6",1539.897,1544.118,1574.704,1578.921
+3,0,0,1,3,likabilityRev,"6",1546.854,1548.856,1581.655,1583.655

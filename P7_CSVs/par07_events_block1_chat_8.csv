@@ -1,0 +1,122 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+7,1,1,1,7,prompt,"Who is your favorite family member?",1230.155,1236.578,2911.869,2918.284
+7,1,1,1,1,msgSent,"My mom is likely my favorite family member, but this is a tough question",1236.578,1263.641,2918.284,2945.319
+7,1,1,1,1,likeReceived,"1",1268.696,1270.781,2950.386,2952.453
+7,1,1,1,1,likeReceived,"1",1270.781,1273.165,2952.453,2954.836
+7,1,1,1,1,likeReceived,"1",1273.165,1276.468,2954.837,2958.137
+7,1,1,1,1,likeReceived,"1",1276.468,1279.32,2958.137,2960.987
+7,1,1,1,1,likeReceived,"1",1279.32,1282.607,2960.987,2964.271
+7,1,1,1,1,likesReceivedTotal,"4",1268.696,1282.607,2950.386,2964.271
+7,1,1,1,2,msgReceivedWords,"<lowercase>That's ",1326.764,1327.545,3008.391,3009.171
+7,1,1,1,2,msgReceivedWords,"so ",1327.549,1328.388,3009.174,3010.014
+7,1,1,1,2,msgReceivedWords,"sweet! ",1328.4,1329.634,3010.024,3011.258
+7,1,1,1,2,msgReceivedWords,"Moms ",1329.651,1330.16,3011.274,3011.783
+7,1,1,1,2,msgReceivedWords,"are ",1330.168,1330.697,3011.791,3012.32
+7,1,1,1,2,msgReceivedWords,"just ",1330.702,1331.742,3012.324,3013.364
+7,1,1,1,2,msgReceivedWords,"the ",1331.753,1332.613,3013.374,3014.234
+7,1,1,1,2,msgReceivedWords,"best,",1332.621,1333.9,3014.241,3015.52
+7,1,1,1,2,msgReceivedWords," ",1333.905,1335.143,3015.524,3016.763
+7,1,1,1,2,msgReceivedWords,"aren't ",1335.155,1336.517,3016.774,3018.136
+7,1,1,1,2,msgReceivedWords,"they? ",1336.523,1337.221,3018.141,3018.839
+7,1,1,1,2,msgReceivedWords,"What ",1337.224,1338.114,3018.841,3019.731
+7,1,1,1,2,msgReceivedWords,"makes ",1338.125,1339.537,3019.741,3021.153
+7,1,1,1,2,msgReceivedWords,"your ",1339.543,1340.063,3021.158,3021.678
+7,1,1,1,2,msgReceivedWords,"mom ",1340.076,1341.205,3021.691,3022.821
+7,1,1,1,2,msgReceivedWords,"your ",1341.21,1342.602,3022.825,3024.217
+7,1,1,1,2,msgReceivedWords,"favorite?</lowercase>​",1342.61,1344.052,3024.225,3025.667
+7,1,1,1,2,msgReceived,"<lowercase>That's so sweet! Moms are just the best, aren't they? What makes your mom your favorite?</lowercase>​",1326.764,1344.06,3008.39,3025.675
+7,1,1,1,2,likeGiven,"+1",1344.06,1346.162,3025.676,3027.775
+7,1,1,1,2,likeGiven,"+1",1344.06,1346.412,3025.676,3028.025
+7,1,1,1,2,likeGiven,"+1",1344.06,1346.645,3025.676,3028.259
+7,1,1,1,2,nodislikeGiven,"0",1344.06,1354.07,3025.676,3035.676
+7,1,1,1,2,totalLikesGiven,"3",1344.06,1354.07,3025.676,3035.676
+7,1,1,1,3,msgSent,"She's really funny and makes me feel better about bad situations",1355.07,1379.543,3036.676,3061.128
+7,1,1,1,20,rewardPunish_0,"10",1384.549,1389.07,3066.128,3070.645
+7,1,1,1,3,likeReceived,"1",1391.84,1394.926,3073.428,3076.495
+7,1,1,1,3,likeReceived,"1",1394.926,1398.346,3076.495,3079.912
+7,1,1,1,3,likeReceived,"1",1398.346,1400.164,3079.912,3081.729
+7,1,1,1,3,likeReceived,"1",1400.164,1402.132,3081.729,3083.696
+7,1,1,1,3,likeReceived,"1",1402.132,1404.5,3083.696,3086.063
+7,1,1,1,3,likesReceivedTotal,"4",1391.84,1404.5,3073.428,3086.063
+7,1,1,1,4,msgReceivedWords,"<lowercase><lowercase>That's ",1408.587,1409.677,3090.146,3091.237
+7,1,1,1,4,msgReceivedWords,"awesome! ",1409.688,1410.21,3091.246,3091.769
+7,1,1,1,4,msgReceivedWords,"A ",1410.222,1410.812,3091.78,3092.37
+7,1,1,1,4,msgReceivedWords,"good ",1410.822,1411.592,3092.38,3093.149
+7,1,1,1,4,msgReceivedWords,"sense ",1411.606,1412.355,3093.163,3093.913
+7,1,1,1,4,msgReceivedWords,"of ",1412.356,1413.696,3093.913,3095.253
+7,1,1,1,4,msgReceivedWords,"humor ",1413.707,1414.355,3095.263,3095.911
+7,1,1,1,4,msgReceivedWords,"can ",1414.358,1415.47,3095.913,3097.026
+7,1,1,1,4,msgReceivedWords,"make ",1415.475,1416.818,3097.03,3098.372
+7,1,1,1,4,msgReceivedWords,"everything ",1416.827,1418.162,3098.38,3099.715
+7,1,1,1,4,msgReceivedWords,"better.",1418.179,1419.333,3099.73,3100.885
+7,1,1,1,4,msgReceivedWords," ",1419.347,1420.272,3100.897,3101.823
+7,1,1,1,4,msgReceivedWords,"Sounds ",1420.281,1421.353,3101.831,3102.902
+7,1,1,1,4,msgReceivedWords,"like ",1421.365,1422.569,3102.914,3104.118
+7,1,1,1,4,msgReceivedWords,"she's ",1422.584,1423.395,3104.131,3104.942
+7,1,1,1,4,msgReceivedWords,"really ",1423.401,1424.714,3104.947,3106.26
+7,1,1,1,4,msgReceivedWords,"supportive ",1424.72,1426.038,3106.264,3107.582
+7,1,1,1,4,msgReceivedWords,"too.",1426.055,1427.522,3107.598,3109.065
+7,1,1,1,4,msgReceivedWords,"</lowercase> ",1427.54,1428.371,3109.081,3109.912
+7,1,1,1,4,msgReceivedWords,"What's ",1428.374,1429.083,3109.914,3110.624
+7,1,1,1,4,msgReceivedWords,"one ",1429.091,1430.506,3110.631,3112.046
+7,1,1,1,4,msgReceivedWords,"of ",1430.509,1431.303,3112.048,3112.842
+7,1,1,1,4,msgReceivedWords,"your ",1431.311,1432.315,3112.848,3113.852
+7,1,1,1,4,msgReceivedWords,"favorite ",1432.328,1433.211,3113.865,3114.747
+7,1,1,1,4,msgReceivedWords,"memories ",1433.213,1434.481,3114.748,3116.016
+7,1,1,1,4,msgReceivedWords,"with ",1434.497,1435.971,3116.031,3117.505
+7,1,1,1,4,msgReceivedWords,"her?</lowercase>​",1435.982,1436.701,3117.515,3118.234
+7,1,1,1,4,msgReceived,"<lowercase><lowercase>That's awesome! A good sense of humor can make everything better. Sounds like she's really supportive too.</lowercase> What's one of your favorite memories with her?</lowercase>​",1408.587,1436.717,3090.146,3118.248
+7,1,1,1,4,likeGiven,"+1",1436.717,1439.369,3118.249,3120.899
+7,1,1,1,4,likeGiven,"+1",1436.717,1439.736,3118.249,3121.266
+7,1,1,1,4,likeGiven,"+1",1436.717,1440.003,3118.249,3121.532
+7,1,1,1,4,likeGiven,"+1",1436.717,1440.12,3118.249,3121.649
+7,1,1,1,4,likeGiven,"+1",1436.717,1441.071,3118.249,3122.599
+7,1,1,1,4,nodislikeGiven,"0",1436.717,1446.728,3118.249,3128.249
+7,1,1,1,4,totalLikesGiven,"5",1436.717,1446.728,3118.249,3128.249
+7,1,1,1,5,msgSent,"I remember when my mom first started learning to sew, she made some really funny clothes. those are some pretty good memories",1447.729,1475.937,3129.249,3157.435
+7,1,1,1,21,rewardPunish_4,"3",1480.942,1485.781,3162.435,3167.268
+7,1,1,1,5,likeReceived,"1",1488.134,1490.987,3169.635,3172.469
+7,1,1,1,5,likeReceived,"1",1490.987,1494.057,3172.469,3175.536
+7,1,1,1,5,likeReceived,"1",1494.057,1496.275,3175.536,3177.752
+7,1,1,1,5,likeReceived,"1",1496.275,1498.961,3177.752,3180.436
+7,1,1,1,5,likeReceived,"1",1498.961,1500.729,3180.436,3182.203
+7,1,1,1,5,likesReceivedTotal,"4",1488.134,1500.729,3169.635,3182.203
+7,1,1,1,6,msgReceivedWords,"<lowercase><lowercase>That ",1520.864,1521.707,3202.321,3203.164
+7,1,1,1,6,msgReceivedWords,"sounds ",1521.714,1522.653,3203.171,3204.11
+7,1,1,1,6,msgReceivedWords,"hilarious ",1522.665,1523.911,3204.121,3205.367
+7,1,1,1,6,msgReceivedWords,"and ",1523.916,1524.642,3205.371,3206.097
+7,1,1,1,6,msgReceivedWords,"super ",1524.65,1525.23,3206.105,3206.684
+7,1,1,1,6,msgReceivedWords,"sweet! ",1525.234,1526.401,3206.688,3207.855
+7,1,1,1,6,msgReceivedWords,"It ",1526.419,1527.012,3207.871,3208.464
+7,1,1,1,6,msgReceivedWords,"must ",1527.02,1527.526,3208.471,3208.978
+7,1,1,1,6,msgReceivedWords,"have ",1527.537,1528.983,3208.988,3210.434
+7,1,1,1,6,msgReceivedWords,"been ",1528.989,1530.254,3210.438,3211.703
+7,1,1,1,6,msgReceivedWords,"fun ",1530.257,1531.033,3211.705,3212.481
+7,1,1,1,6,msgReceivedWords,"to ",1531.041,1532.343,3212.489,3213.791
+7,1,1,1,6,msgReceivedWords,"see ",1532.359,1533.851,3213.805,3215.297
+7,1,1,1,6,msgReceivedWords,"all ",1533.861,1534.82,3215.305,3216.265
+7,1,1,1,6,msgReceivedWords,"her ",1534.828,1536.281,3216.272,3217.724
+7,1,1,1,6,msgReceivedWords,"unique ",1536.297,1537.183,3217.739,3218.625
+7,1,1,1,6,msgReceivedWords,"creations.",1537.198,1538.05,3218.639,3219.491
+7,1,1,1,6,msgReceivedWords," ",1538.066,1538.572,3219.506,3220.012
+7,1,1,1,6,msgReceivedWords,"Do ",1538.583,1539.518,3220.022,3220.957
+7,1,1,1,6,msgReceivedWords,"you ",1539.534,1540.451,3220.972,3221.89
+7,1,1,1,6,msgReceivedWords,"still ",1540.468,1541.615,3221.906,3223.053
+7,1,1,1,6,msgReceivedWords,"have ",1541.62,1542.566,3223.056,3224.002
+7,1,1,1,6,msgReceivedWords,"any ",1542.57,1543.547,3224.006,3224.982
+7,1,1,1,6,msgReceivedWords,"of ",1543.555,1544.323,3224.989,3225.757
+7,1,1,1,6,msgReceivedWords,"the ",1544.339,1545.831,3225.773,3227.265
+7,1,1,1,6,msgReceivedWords,"clothes ",1545.84,1546.662,3227.273,3228.094
+7,1,1,1,6,msgReceivedWords,"she ",1546.675,1547.784,3228.106,3229.216
+7,1,1,1,6,msgReceivedWords,"made?</lowercase></lowercase>​",1547.793,1548.779,3229.223,3230.209
+7,1,1,1,6,msgReceived,"<lowercase><lowercase>That sounds hilarious and super sweet! It must have been fun to see all her unique creations. Do you still have any of the clothes she made?</lowercase></lowercase>​",1520.864,1548.794,3202.321,3230.223
+7,1,1,1,6,likeGiven,"+1",1548.794,1551.328,3230.224,3232.757
+7,1,1,1,6,likeGiven,"+1",1548.794,1551.578,3230.224,3233.007
+7,1,1,1,6,likeGiven,"+1",1548.794,1551.879,3230.224,3233.307
+7,1,1,1,6,likeGiven,"+1",1548.794,1552.129,3230.224,3233.557
+7,1,1,1,6,likeGiven,"+1",1548.794,1552.362,3230.224,3233.791
+7,1,1,1,6,nodislikeGiven,"0",1548.794,1558.803,3230.224,3240.224
+7,1,1,1,6,totalLikesGiven,"5",1548.794,1558.803,3230.224,3240.224
+7,1,1,1,7,feelings,"happy",1562.34,1565.01,3243.758,3246.425
+7,1,1,1,7,likability,"9",1567.596,1573.652,3249.008,3255.059
+7,1,1,1,7,likabilityRev,"8",1576.639,1580.608,3258.042,3262.009

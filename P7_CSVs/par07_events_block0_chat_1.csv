@@ -1,0 +1,117 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+0,0,0,0,0,5,"nan",0,0,35.11282,35.11282
+0,0,0,0,0,avtars,"nan",6.850479,11.85085,41.95982,46.9603
+0,0,0,0,0,fixate,"nan",17.28455,19.39467,52.54303,54.57745
+0,0,0,0,0,prompt,"Should we have freedom of speech even with misinformation and hate speech?",19.39467,28.51182,54.58035,63.69743
+0,0,0,0,1,msgSent,"yes, I do think that freedom of speech is necessary, even though that may result in hate speech. ",28.51182,55.51416,63.69749,90.69721
+0,0,0,0,1,dislikesReceived,"4",60.56464,68.0985,95.76646,103.2809
+0,0,0,0,2,msgReceivedWords,"<lowercase>That’s ",100.2832,101.6089,135.4711,136.7969
+0,0,0,0,2,msgReceivedWords,"just ",101.6165,102.5603,136.7999,137.7437
+0,0,0,0,2,msgReceivedWords,"a ",102.5666,103.878,137.75,139.0614
+0,0,0,0,2,msgReceivedWords,"reckless ",103.8834,104.4782,139.0668,139.6617
+0,0,0,0,2,msgReceivedWords,"take.",104.4834,105.1877,139.6668,140.3711
+0,0,0,0,2,msgReceivedWords," ",105.2001,105.9001,140.3836,141.0836
+0,0,0,0,2,msgReceivedWords,"So ",105.9167,106.556,141.1003,141.7395
+0,0,0,0,2,msgReceivedWords,"you're ",106.5668,107.5341,141.7503,142.7176
+0,0,0,0,2,msgReceivedWords,"fine ",107.5502,108.7117,142.7337,143.8953
+0,0,0,0,2,msgReceivedWords,"with ",108.7169,109.4629,143.9005,144.6464
+0,0,0,0,2,msgReceivedWords,"people ",109.467,110.6931,144.6505,145.8767
+0,0,0,0,2,msgReceivedWords,"spreading ",110.7004,111.2138,145.884,146.3974
+0,0,0,0,2,msgReceivedWords,"hate ",111.2171,111.9238,146.4007,147.1074
+0,0,0,0,2,msgReceivedWords,"and ",111.9338,112.6867,147.1177,147.8706
+0,0,0,0,2,msgReceivedWords,"lies ",112.7004,113.719,147.8841,148.9026
+0,0,0,0,2,msgReceivedWords,"just ",113.7338,114.8426,148.9175,150.0262
+0,0,0,0,2,msgReceivedWords,"because ",114.8506,116.0432,150.0343,151.2268
+0,0,0,0,2,msgReceivedWords,"it's ",116.0507,117.4296,151.2343,152.6132
+0,0,0,0,2,msgReceivedWords,"their ",117.4341,118.8119,152.6178,153.9956
+0,0,0,0,2,msgReceivedWords,"'freedom'? ",118.8175,120.115,154.0012,155.2987
+0,0,0,0,2,msgReceivedWords,"That’s ",120.1176,120.7145,155.3013,155.8982
+0,0,0,0,2,msgReceivedWords,"dangerous ",120.7176,121.8663,155.9013,157.05
+0,0,0,0,2,msgReceivedWords,"and ",121.8677,122.6364,157.0514,157.8202
+0,0,0,0,2,msgReceivedWords,"irresponsible.",122.651,123.3698,157.8348,158.5536
+0,0,0,0,2,msgReceivedWords,"</lowercase>​",123.3844,124.1624,158.5682,159.3462
+0,0,0,0,2,msgReceived,"<lowercase>That’s just a reckless take. So you're fine with people spreading hate and lies just because it's their 'freedom'? That’s dangerous and irresponsible.</lowercase>​",100.2832,124.1677,135.4665,159.3516
+0,0,0,0,2,dislikeGiven,"+1",124.1677,129.0846,159.3535,164.2742
+0,0,0,0,2,totalDislikesGiven,"1",124.1677,134.1843,159.3535,169.369
+0,0,0,0,2,noLikeGiven,"0",124.1677,134.1843,159.3535,169.3692
+0,0,0,0,3,msgSent,"As much as I would want to ensure that hate is not spread, everyone has the right to express their mind. because that can also be spreading kindness",135.1842,184.799,170.3691,219.9897
+0,0,0,0,1,rewardPunish_2,"-3",189.7988,195.6154,224.991,230.8073
+0,0,0,0,3,dislikesReceived,"3",197.632,203.165,232.8402,238.3572
+0,0,0,0,4,msgReceivedWords,"<lowercase>Right,",219.2978,220.3314,254.492,255.5257
+0,0,0,0,4,msgReceivedWords," ",220.3477,221.0221,255.5418,256.2162
+0,0,0,0,4,msgReceivedWords,"so ",221.031,221.6435,256.2252,256.8377
+0,0,0,0,4,msgReceivedWords,"you'd ",221.6477,222.4074,256.8419,257.6017
+0,0,0,0,4,msgReceivedWords,"risk ",222.4142,222.9618,257.6086,258.1562
+0,0,0,0,4,msgReceivedWords,"hate ",222.9642,223.4707,258.1587,258.6652
+0,0,0,0,4,msgReceivedWords,"just ",223.4809,224.245,258.6754,259.4396
+0,0,0,0,4,msgReceivedWords,"for ",224.2475,224.9056,259.4421,260.1002
+0,0,0,0,4,msgReceivedWords,"a ",224.9141,226.2962,260.1088,261.4909
+0,0,0,0,4,msgReceivedWords,"shot ",226.2974,226.8047,261.4922,261.9995
+0,0,0,0,4,msgReceivedWords,"at ",226.814,228.0511,262.009,263.2461
+0,0,0,0,4,msgReceivedWords,"kindness? ",228.064,228.7781,263.2591,263.9732
+0,0,0,0,4,msgReceivedWords,"Naive ",228.7807,230.1609,263.9758,265.356
+0,0,0,0,4,msgReceivedWords,"much? ",230.164,231.074,265.3592,266.2693
+0,0,0,0,4,msgReceivedWords,"It's ",231.0806,231.771,266.2759,266.9663
+0,0,0,0,4,msgReceivedWords,"like ",231.7806,233.0731,266.976,268.2686
+0,0,0,0,4,msgReceivedWords,"playing ",233.0805,234.2614,268.2761,269.457
+0,0,0,0,4,msgReceivedWords,"with ",234.2638,235.1452,269.4595,270.3409
+0,0,0,0,4,msgReceivedWords,"fire ",235.147,236.1225,270.3429,271.3184
+0,0,0,0,4,msgReceivedWords,"and ",236.1303,237.3813,271.3263,272.5773
+0,0,0,0,4,msgReceivedWords,"hoping ",237.3969,238.0224,272.5931,273.2186
+0,0,0,0,4,msgReceivedWords,"not ",238.0303,238.8541,273.2264,274.0503
+0,0,0,0,4,msgReceivedWords,"to ",238.8635,240.1928,274.0598,275.3892
+0,0,0,0,4,msgReceivedWords,"get ",240.1967,241.0222,275.3933,276.2187
+0,0,0,0,4,msgReceivedWords,"burned.",241.03,242.5249,276.2267,277.7216
+0,0,0,0,4,msgReceivedWords," ",242.5299,243.8108,277.7268,279.0076
+0,0,0,0,4,msgReceivedWords,"We ",243.8132,245.0426,279.0102,280.2396
+0,0,0,0,4,msgReceivedWords,"need ",245.0464,246.416,280.2436,281.6132
+0,0,0,0,4,msgReceivedWords,"control,",246.4297,247.6861,281.6271,282.8834
+0,0,0,0,4,msgReceivedWords," ",247.6963,248.7627,282.8938,283.9603
+0,0,0,0,4,msgReceivedWords,"not ",248.7628,249.8162,283.9606,285.014
+0,0,0,0,4,msgReceivedWords,"chaos.",249.8295,250.7538,285.0273,285.9517
+0,0,0,0,4,msgReceivedWords,"</lowercase>​",250.7628,252.1424,285.9607,287.3403
+0,0,0,0,4,msgReceived,"<lowercase>Right, so you'd risk hate just for a shot at kindness? Naive much? It's like playing with fire and hoping not to get burned. We need control, not chaos.</lowercase>​",219.2978,252.146,254.4917,287.3441
+0,0,0,0,4,dislikeGiven,"+1",252.146,255.1458,287.3448,290.3448
+0,0,0,0,4,totalDislikesGiven,"1",252.146,262.1473,287.3448,297.3449
+0,0,0,0,4,noLikeGiven,"0",252.146,262.1473,287.3448,297.345
+0,0,0,0,5,msgSent,"Okay, in your case, who decices what to control and what to reject? How do you define hate speech?",263.1477,292.6066,298.3449,327.7972
+0,0,0,0,2,rewardPunish_2,"-3",297.6082,301.8259,332.7975,337.0143
+0,0,0,0,5,dislikesReceived,"1",303.8767,305.6272,339.0812,340.8148
+0,0,0,0,6,msgReceivedWords,"<lowercase>Oh,",321.7817,322.4758,356.9661,357.6602
+0,0,0,0,6,msgReceivedWords," ",322.4819,323.426,357.6659,358.61
+0,0,0,0,6,msgReceivedWords,"suddenly ",323.4322,324.5747,358.616,359.7585
+0,0,0,0,6,msgReceivedWords,"we ",324.5825,326.0565,359.7661,361.24
+0,0,0,0,6,msgReceivedWords,"need ",326.0664,326.6198,361.2495,361.8029
+0,0,0,0,6,msgReceivedWords,"a ",326.6331,327.2917,361.8162,362.4747
+0,0,0,0,6,msgReceivedWords,"detailed ",327.3,328.657,362.4828,363.8399
+0,0,0,0,6,msgReceivedWords,"rulebook? ",328.6671,329.243,363.8497,364.4256
+0,0,0,0,6,msgReceivedWords,"Common ",329.2507,330.7362,364.433,365.9185
+0,0,0,0,6,msgReceivedWords,"sense ",330.751,331.5942,365.9332,366.7764
+0,0,0,0,6,msgReceivedWords,"isn’t ",331.6013,332.6488,366.7832,367.8307
+0,0,0,0,6,msgReceivedWords,"common ",332.6517,333.4389,367.8333,368.6205
+0,0,0,0,6,msgReceivedWords,"anymore? ",333.452,334.456,368.6334,369.6374
+0,0,0,0,6,msgReceivedWords,"Hate ",334.4691,335.4207,369.6501,370.6017
+0,0,0,0,6,msgReceivedWords,"speech ",335.4361,336.0633,370.6168,371.244
+0,0,0,0,6,msgReceivedWords,"and ",336.0695,336.7414,371.2502,371.9221
+0,0,0,0,6,msgReceivedWords,"lies ",336.7531,338.0088,371.9336,373.1892
+0,0,0,0,6,msgReceivedWords,"are ",338.0201,339.5125,373.2003,374.6927
+0,0,0,0,6,msgReceivedWords,"pretty ",339.5207,340.4878,374.7005,375.6676
+0,0,0,0,6,msgReceivedWords,"clear,",340.5043,341.2682,375.6839,376.4478
+0,0,0,0,6,msgReceivedWords," ",341.2712,342.7119,376.4506,377.8912
+0,0,0,0,6,msgReceivedWords,"and ",342.7217,343.8191,377.9007,378.9981
+0,0,0,0,6,msgReceivedWords,"we ",343.8221,344.4357,379.0008,379.6144
+0,0,0,0,6,msgReceivedWords,"don't ",344.4388,345.2872,379.6174,380.4658
+0,0,0,0,6,msgReceivedWords,"need ",345.2891,346.5628,380.4676,381.7413
+0,0,0,0,6,msgReceivedWords,"harmful ",346.5727,347.8508,381.7509,383.029
+0,0,0,0,6,msgReceivedWords,"noise ",347.8564,348.9088,383.0344,384.0868
+0,0,0,0,6,msgReceivedWords,"clouding ",348.9234,350.321,384.1011,385.4987
+0,0,0,0,6,msgReceivedWords,"real ",350.3238,351.5952,385.5013,386.7727
+0,0,0,0,6,msgReceivedWords,"issues.",351.6075,352.2913,386.7847,387.4685
+0,0,0,0,6,msgReceivedWords,"</lowercase>​",352.3077,353.3626,387.4847,388.5396
+0,0,0,0,6,msgReceived,"<lowercase>Oh, suddenly we need a detailed rulebook? Common sense isn’t common anymore? Hate speech and lies are pretty clear, and we don't need harmful noise clouding real issues.</lowercase>​",321.7817,353.3747,356.9658,388.5515
+0,0,0,0,6,dislikeGiven,"+1",353.3747,356.6255,388.5521,391.8021
+0,0,0,0,6,totalDislikesGiven,"1",353.3747,363.3776,388.5521,398.5522
+0,0,0,0,6,noLikeGiven,"0",353.3747,363.3776,388.5521,398.5523
+0,0,0,0,0,feelings,"angry",366.912,372.0635,402.0873,407.2403
+0,0,0,0,0,likability,"0",374.3641,379.8658,409.5403,415.0383
+0,0,0,0,0,likabilityRev,"0",382.2332,387.3015,417.4041,422.471

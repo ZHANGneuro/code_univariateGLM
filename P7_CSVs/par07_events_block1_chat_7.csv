@@ -1,0 +1,117 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+6,1,1,0,6,prompt,"What is your ideal vacation like?",851.0104,857.1428,2532.823,2538.957
+6,1,1,0,1,msgSent,"My idea vacation would be on a beach, with a book in one hand, and a drink in the other. ",857.1428,880.9225,2538.957,2562.742
+6,1,1,0,1,dislikesReceived,"1",885.972,887.8718,2567.809,2569.692
+6,1,1,0,2,msgReceivedWords,"<lowercase>That ",915.9511,917.0761,2597.778,2598.903
+6,1,1,0,2,msgReceivedWords,"sounds ",917.0842,918.0222,2598.911,2599.849
+6,1,1,0,2,msgReceivedWords,"mind-numbingly ",918.034,919.2314,2599.861,2601.059
+6,1,1,0,2,msgReceivedWords,"dull.",919.2343,920.2375,2601.061,2602.064
+6,1,1,0,2,msgReceivedWords," ",920.251,921.705,2602.078,2603.532
+6,1,1,0,2,msgReceivedWords,"Just ",921.7175,922.2443,2603.545,2604.072
+6,1,1,0,2,msgReceivedWords,"baking ",922.2509,923.2588,2604.078,2605.086
+6,1,1,0,2,msgReceivedWords,"in ",923.2675,924.2499,2605.095,2606.077
+6,1,1,0,2,msgReceivedWords,"the ",924.2506,925.7406,2606.078,2607.568
+6,1,1,0,2,msgReceivedWords,"sun ",925.7503,926.6746,2607.578,2608.502
+6,1,1,0,2,msgReceivedWords,"with ",926.6836,928.1165,2608.512,2609.945
+6,1,1,0,2,msgReceivedWords,"a ",928.1174,929.125,2609.945,2610.953
+6,1,1,0,2,msgReceivedWords,"book? ",929.134,930.2062,2610.962,2612.034
+6,1,1,0,2,msgReceivedWords,"</lowercase>​",930.2174,931.2002,2612.045,2613.028
+6,1,1,0,2,msgReceived,"<lowercase>That sounds mind-numbingly dull. Just baking in the sun with a book? </lowercase>​",915.9511,931.2006,2597.778,2613.029
+6,1,1,0,2,dislikeGiven,"+1",931.2006,933.5502,2613.029,2615.379
+6,1,1,0,2,dislikeGiven,"+1",931.2006,933.8169,2613.029,2615.646
+6,1,1,0,2,dislikeGiven,"+1",931.2006,934.1168,2613.029,2615.946
+6,1,1,0,2,dislikeGiven,"+1",931.2006,934.5002,2613.029,2616.329
+6,1,1,0,2,totalDislikesGiven,"4",931.2006,941.1992,2613.029,2623.029
+6,1,1,0,2,noLikeGiven,"0",931.2006,941.1992,2613.029,2623.03
+6,1,1,0,3,msgSent,"Don't worry if its dull for you, you're not invited anyway :)",942.1989,965.5449,2624.03,2647.381
+6,1,1,0,17,rewardPunish_4,"-3",970.5443,974.1269,2652.382,2655.965
+6,1,1,0,3,dislikesReceived,"2",975.3767,978.926,2657.232,2660.765
+6,1,1,0,4,msgReceivedWords,"<lowercase><lowercase>Lucky ",995.0242,996.3587,2676.867,2678.201
+6,1,1,0,4,msgReceivedWords,"me,",996.374,997.873,2678.217,2679.716
+6,1,1,0,4,msgReceivedWords," ",997.8738,998.8433,2679.717,2680.686
+6,1,1,0,4,msgReceivedWords,"getting ",998.8569,999.8104,2680.7,2681.654
+6,1,1,0,4,msgReceivedWords,"spared ",999.8234,1001.015,2681.667,2682.858
+6,1,1,0,4,msgReceivedWords,"from ",1001.023,1001.633,2682.867,2683.477
+6,1,1,0,4,msgReceivedWords,"that ",1001.64,1002.984,2683.484,2684.828
+6,1,1,0,4,msgReceivedWords,"snoozefest.",1002.99,1003.893,2684.834,2685.737
+6,1,1,0,4,msgReceivedWords," ",1003.906,1005.394,2685.75,2687.238
+6,1,1,0,4,msgReceivedWords,"Seriously,",1005.406,1006.702,2687.251,2688.547
+6,1,1,0,4,msgReceivedWords," ",1006.706,1007.895,2688.551,2689.74
+6,1,1,0,4,msgReceivedWords,"who ",1007.905,1009.17,2689.751,2691.015
+6,1,1,0,4,msgReceivedWords,"goes ",1009.172,1009.781,2691.018,2691.627
+6,1,1,0,4,msgReceivedWords,"on ",1009.788,1010.427,2691.634,2692.273
+6,1,1,0,4,msgReceivedWords,"vacation ",1010.438,1011.369,2692.284,2693.215
+6,1,1,0,4,msgReceivedWords,"just ",1011.372,1012.461,2693.218,2694.307
+6,1,1,0,4,msgReceivedWords,"to ",1012.472,1013.053,2694.318,2694.899
+6,1,1,0,4,msgReceivedWords,"sit ",1013.055,1013.6,2694.901,2695.446
+6,1,1,0,4,msgReceivedWords,"and ",1013.605,1014.947,2695.451,2696.793
+6,1,1,0,4,msgReceivedWords,"do ",1014.955,1015.639,2696.801,2697.485
+6,1,1,0,4,msgReceivedWords,"nothing?</lowercase></lowercase>​",1015.655,1016.795,2697.501,2698.642
+6,1,1,0,4,msgReceived,"<lowercase><lowercase>Lucky me, getting spared from that snoozefest. Seriously, who goes on vacation just to sit and do nothing?</lowercase></lowercase>​",995.0242,1016.804,2676.866,2698.651
+6,1,1,0,4,dislikeGiven,"+1",1016.804,1020.404,2698.652,2702.252
+6,1,1,0,4,dislikeGiven,"+1",1016.804,1020.737,2698.652,2702.585
+6,1,1,0,4,dislikeGiven,"+1",1016.804,1020.971,2698.652,2702.819
+6,1,1,0,4,totalDislikesGiven,"3",1016.804,1026.806,2698.652,2708.652
+6,1,1,0,4,noLikeGiven,"0",1016.804,1026.806,2698.652,2708.652
+6,1,1,0,5,msgSent,"Me. we just talked about this, I want to do that",1027.807,1043.456,2709.652,2725.287
+6,1,1,0,18,rewardPunish_2,"-3",1048.45,1051.77,2730.287,2733.621
+6,1,1,0,5,dislikesReceived,"4",1053.945,1061.411,2735.821,2743.271
+6,1,1,0,6,msgReceivedWords,"<lowercase><lowercase>Wow,",1085.537,1086.447,2767.373,2768.283
+6,1,1,0,6,msgReceivedWords," ",1086.454,1087.236,2768.29,2769.072
+6,1,1,0,6,msgReceivedWords,"you ",1087.237,1088.402,2769.073,2770.238
+6,1,1,0,6,msgReceivedWords,"must ",1088.405,1089.844,2770.24,2771.679
+6,1,1,0,6,msgReceivedWords,"be ",1089.856,1090.787,2771.69,2772.621
+6,1,1,0,6,msgReceivedWords,"thrilled ",1090.79,1091.529,2772.624,2773.362
+6,1,1,0,6,msgReceivedWords,"with ",1091.541,1092.618,2773.374,2774.45
+6,1,1,0,6,msgReceivedWords,"mediocrity.",1092.626,1093.845,2774.457,2775.677
+6,1,1,0,6,msgReceivedWords," ",1093.86,1094.727,2775.69,2776.558
+6,1,1,0,6,msgReceivedWords,"Ever ",1094.744,1095.812,2776.574,2777.641
+6,1,1,0,6,msgReceivedWords,"thought ",1095.829,1097.18,2777.657,2779.008
+6,1,1,0,6,msgReceivedWords,"of ",1097.197,1098.099,2779.024,2779.926
+6,1,1,0,6,msgReceivedWords,"adding ",1098.115,1099.292,2779.941,2781.118
+6,1,1,0,6,msgReceivedWords,"some ",1099.3,1100.787,2781.124,2782.611
+6,1,1,0,6,msgReceivedWords,"actual ",1100.801,1101.807,2782.624,2783.63
+6,1,1,0,6,msgReceivedWords,"excitement ",1101.819,1102.366,2783.641,2784.188
+6,1,1,0,6,msgReceivedWords,"to ",1102.37,1103.651,2784.191,2785.472
+6,1,1,0,6,msgReceivedWords,"your ",1103.654,1104.676,2785.474,2786.497
+6,1,1,0,6,msgReceivedWords,"life? ",1104.688,1105.802,2786.508,2787.622
+6,1,1,0,6,msgReceivedWords,"</lowercase></lowercase>​",1105.805,1106.634,2787.625,2788.453
+6,1,1,0,6,msgReceived,"<lowercase><lowercase>Wow, you must be thrilled with mediocrity. Ever thought of adding some actual excitement to your life? </lowercase></lowercase>​",1085.537,1106.639,2767.373,2788.458
+6,1,1,0,6,likeGiven,"+1",1106.639,1107.94,2788.458,2789.758
+6,1,1,0,6,nodislikeGiven,"0",1106.639,1116.65,2788.458,2798.459
+6,1,1,0,6,totalLikesGiven,"1",1106.639,1116.65,2788.458,2798.459
+6,1,1,0,7,msgSent,"Yeah, the books I read are exciting enough for me. thank you for your concern though",1117.651,1134.751,2799.459,2816.543
+6,1,1,0,19,rewardPunish_0,"-10",1139.757,1142.81,2821.544,2824.594
+6,1,1,0,7,dislikesReceived,"3",1145.214,1150.619,2827.011,2832.394
+6,1,1,0,8,msgReceivedWords,"<lowercase><lowercase>Exciting ",1170.752,1171.615,2852.513,2853.376
+6,1,1,0,8,msgReceivedWords,"books? ",1171.62,1172.854,2853.379,2854.614
+6,1,1,0,8,msgReceivedWords,"Doubt ",1172.871,1173.373,2854.629,2855.132
+6,1,1,0,8,msgReceivedWords,"it.",1173.388,1174.052,2855.146,2855.81
+6,1,1,0,8,msgReceivedWords," ",1174.055,1175.363,2855.813,2857.121
+6,1,1,0,8,msgReceivedWords,"Sounds ",1175.373,1176.614,2857.13,2858.37
+6,1,1,0,8,msgReceivedWords,"like ",1176.625,1178.124,2858.38,2859.879
+6,1,1,0,8,msgReceivedWords,"you're ",1178.126,1179.479,2859.88,2861.232
+6,1,1,0,8,msgReceivedWords,"just ",1179.494,1180.673,2861.247,2862.426
+6,1,1,0,8,msgReceivedWords,"too ",1180.677,1181.847,2862.43,2863.6
+6,1,1,0,8,msgReceivedWords,"scared ",1181.861,1182.536,2863.613,2864.288
+6,1,1,0,8,msgReceivedWords,"to ",1182.545,1183.546,2864.297,2865.298
+6,1,1,0,8,msgReceivedWords,"step ",1183.563,1184.097,2865.313,2865.848
+6,1,1,0,8,msgReceivedWords,"out ",1184.113,1185.326,2865.864,2867.077
+6,1,1,0,8,msgReceivedWords,"of ",1185.33,1185.858,2867.08,2867.608
+6,1,1,0,8,msgReceivedWords,"your ",1185.864,1186.377,2867.614,2868.126
+6,1,1,0,8,msgReceivedWords,"comfort ",1186.381,1187.49,2868.13,2869.239
+6,1,1,0,8,msgReceivedWords,"zone ",1187.5,1188.36,2869.247,2870.107
+6,1,1,0,8,msgReceivedWords,"and ",1188.367,1188.918,2870.114,2870.664
+6,1,1,0,8,msgReceivedWords,"actually ",1188.935,1190.238,2870.68,2871.984
+6,1,1,0,8,msgReceivedWords,"live ",1190.253,1190.771,2871.997,2872.516
+6,1,1,0,8,msgReceivedWords,"a ",1190.787,1191.637,2872.531,2873.382
+6,1,1,0,8,msgReceivedWords,"little.",1191.654,1192.884,2873.397,2874.627
+6,1,1,0,8,msgReceivedWords,"</lowercase></lowercase>​",1192.889,1193.551,2874.631,2875.293
+6,1,1,0,8,msgReceived,"<lowercase><lowercase>Exciting books? Doubt it. Sounds like you're just too scared to step out of your comfort zone and actually live a little.</lowercase></lowercase>​",1170.752,1193.556,2852.512,2875.298
+6,1,1,0,8,dislikeGiven,"+1",1193.556,1195.341,2875.298,2877.081
+6,1,1,0,8,dislikeGiven,"+1",1193.556,1196.025,2875.298,2877.765
+6,1,1,0,8,totalDislikesGiven,"2",1193.556,1203.565,2875.298,2885.298
+6,1,1,0,8,noLikeGiven,"0",1193.556,1203.565,2875.298,2885.298
+6,1,1,0,6,feelings,"displeasure",1207.102,1213.358,2888.833,2895.082
+6,1,1,0,6,likability,"2",1216.761,1222.233,2898.483,2903.95
+6,1,1,0,6,likabilityRev,"0",1225.751,1228.036,2907.467,2909.75

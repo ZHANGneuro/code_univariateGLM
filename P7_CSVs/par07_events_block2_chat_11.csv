@@ -1,0 +1,145 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+10,2,1,1,10,prompt,"What's your go-to comfort food, and do you have a special recipe for it?",808.4422,813.1249,4624.324,4629.007
+10,2,1,1,1,msgSent,"My comfort food is very simple. it's warm rice, and plain yogurt, with a bit of salt",813.1249,845.3202,4629.007,4661.209
+10,2,1,1,1,likeReceived,"1",850.3696,852.7693,4666.276,4668.659
+10,2,1,1,1,likeReceived,"1",852.7693,855.3355,4668.659,4671.226
+10,2,1,1,1,likesReceivedTotal,"1",850.3696,855.3355,4666.276,4671.226
+10,2,1,1,2,msgReceivedWords,"<lowercase>That ",879.4165,880.3599,4695.312,4696.255
+10,2,1,1,2,msgReceivedWords,"sounds ",880.3663,880.9532,4696.261,4696.848
+10,2,1,1,2,msgReceivedWords,"so ",880.9662,881.4913,4696.861,4697.387
+10,2,1,1,2,msgReceivedWords,"soothing ",881.4995,882.543,4697.395,4698.438
+10,2,1,1,2,msgReceivedWords,"and ",882.5493,883.6533,4698.445,4699.549
+10,2,1,1,2,msgReceivedWords,"easy ",883.6657,884.4509,4699.562,4700.347
+10,2,1,1,2,msgReceivedWords,"to ",884.4656,885.7072,4700.362,4701.604
+10,2,1,1,2,msgReceivedWords,"make! ",885.7155,886.3928,4701.612,4702.289
+10,2,1,1,2,msgReceivedWords,"I ",886.3986,887.2969,4702.295,4703.193
+10,2,1,1,2,msgReceivedWords,"totally ",887.2985,888.4748,4703.195,4704.372
+10,2,1,1,2,msgReceivedWords,"get ",888.4817,889.5275,4704.378,4705.424
+10,2,1,1,2,msgReceivedWords,"why ",889.5315,890.3235,4705.429,4706.221
+10,2,1,1,2,msgReceivedWords,"it's ",890.3313,891.7657,4706.229,4707.663
+10,2,1,1,2,msgReceivedWords,"your ",891.7811,893.0963,4707.679,4708.994
+10,2,1,1,2,msgReceivedWords,"comfort ",893.0975,893.7128,4708.996,4709.611
+10,2,1,1,2,msgReceivedWords,"food.",893.714,894.8026,4709.612,4710.701
+10,2,1,1,2,msgReceivedWords," ",894.8138,895.9909,4710.712,4711.89
+10,2,1,1,2,msgReceivedWords,"What ",895.9969,896.6668,4711.896,4712.566
+10,2,1,1,2,msgReceivedWords,"got ",896.6801,897.9239,4712.579,4713.823
+10,2,1,1,2,msgReceivedWords,"you ",897.9299,898.9711,4713.83,4714.871
+10,2,1,1,2,msgReceivedWords,"into ",898.9797,900.306,4714.879,4716.206
+10,2,1,1,2,msgReceivedWords,"that ",900.3128,901.1388,4716.213,4717.039
+10,2,1,1,2,msgReceivedWords,"combination?</lowercase>​",901.1461,902.2361,4717.046,4718.136
+10,2,1,1,2,msgReceived,"<lowercase>That sounds so soothing and easy to make! I totally get why it's your comfort food. What got you into that combination?</lowercase>​",879.4165,902.2459,4695.311,4718.146
+10,2,1,1,2,likeGiven,"+1",902.2459,906.2621,4718.147,4722.164
+10,2,1,1,2,likeGiven,"+1",902.2459,906.4621,4718.147,4722.363
+10,2,1,1,2,nodislikeGiven,"0",902.2459,912.2444,4718.147,4728.147
+10,2,1,1,2,totalLikesGiven,"2",902.2459,912.2444,4718.147,4728.147
+10,2,1,1,3,msgSent,"I ate that as a child, so I've grown to love it",913.2443,927.5093,4729.147,4743.415
+10,2,1,1,27,rewardPunish_0,"10",932.5085,934.0915,4748.415,4749.999
+10,2,1,1,3,likeReceived,"1",935.7246,938.0742,4751.648,4753.982
+10,2,1,1,3,likeReceived,"1",938.0742,940.7237,4753.982,4756.632
+10,2,1,1,3,likeReceived,"1",940.7237,943.7567,4756.632,4759.666
+10,2,1,1,3,likeReceived,"1",943.7567,946.3895,4759.666,4762.299
+10,2,1,1,3,likeReceived,"1",946.3895,949.8556,4762.299,4765.766
+10,2,1,1,3,likesReceivedTotal,"4",935.7246,949.8556,4751.648,4765.766
+10,2,1,1,4,msgReceivedWords,"<lowercase>That's ",961.9702,962.5965,4777.884,4778.511
+10,2,1,1,4,msgReceivedWords,"lovely ",962.6035,963.3696,4778.517,4779.283
+10,2,1,1,4,msgReceivedWords,"how ",963.3704,964.6476,4779.284,4780.561
+10,2,1,1,4,msgReceivedWords,"childhood ",964.6536,966.0894,4780.567,4782.003
+10,2,1,1,4,msgReceivedWords,"favorites ",966.1034,966.8351,4782.018,4782.75
+10,2,1,1,4,msgReceivedWords,"become ",966.8367,967.9779,4782.751,4783.892
+10,2,1,1,4,msgReceivedWords,"lifelong ",967.9865,968.7335,4783.901,4784.648
+10,2,1,1,4,msgReceivedWords,"comfort ",968.7363,969.874,4784.651,4785.789
+10,2,1,1,4,msgReceivedWords,"foods! ",969.886,971.3173,4785.801,4787.232
+10,2,1,1,4,msgReceivedWords,"I ",971.3192,972.3364,4787.235,4788.252
+10,2,1,1,4,msgReceivedWords,"have ",972.3523,973.6874,4788.268,4789.603
+10,2,1,1,4,msgReceivedWords,"similar ",973.702,974.2274,4789.618,4790.144
+10,2,1,1,4,msgReceivedWords,"memories ",974.2352,974.9686,4790.151,4790.885
+10,2,1,1,4,msgReceivedWords,"with ",974.9684,976.0787,4790.885,4791.995
+10,2,1,1,4,msgReceivedWords,"mac ",976.085,976.7587,4792.001,4792.675
+10,2,1,1,4,msgReceivedWords,"and ",976.7682,977.8799,4792.685,4793.797
+10,2,1,1,4,msgReceivedWords,"cheese.",977.8847,979.2615,4793.802,4795.179
+10,2,1,1,4,msgReceivedWords,"</lowercase>​",979.2679,980.2491,4795.185,4796.166
+10,2,1,1,4,msgReceived,"<lowercase>That's lovely how childhood favorites become lifelong comfort foods! I have similar memories with mac and cheese.</lowercase>​",961.9702,980.251,4777.884,4796.168
+10,2,1,1,4,likeGiven,"+1",980.251,983.3507,4796.169,4799.269
+10,2,1,1,4,likeGiven,"+1",980.251,984.3173,4796.169,4800.236
+10,2,1,1,4,nodislikeGiven,"0",980.251,990.2506,4796.169,4806.169
+10,2,1,1,4,totalLikesGiven,"2",980.251,990.2506,4796.169,4806.169
+10,2,1,1,5,msgSent,"what is your recipe for mac and cheese?",991.2504,1003.132,4807.169,4819.054
+10,2,1,1,28,rewardPunish_4,"3",1008.131,1010.265,4824.054,4826.187
+10,2,1,1,5,likeReceived,"1",1012.464,1014.097,4828.404,4830.021
+10,2,1,1,5,likeReceived,"1",1014.097,1016.264,4830.021,4832.188
+10,2,1,1,5,likeReceived,"1",1016.264,1017.914,4832.188,4833.838
+10,2,1,1,5,likeReceived,"1",1017.914,1021.13,4833.838,4837.055
+10,2,1,1,5,likesReceivedTotal,"3",1012.464,1021.13,4828.404,4837.055
+10,2,1,1,6,msgReceivedWords,"<lowercase><lowercase>I ",1045.25,1046.033,4861.157,4861.939
+10,2,1,1,6,msgReceivedWords,"keep ",1046.034,1046.703,4861.94,4862.61
+10,2,1,1,6,msgReceivedWords,"it ",1046.717,1047.629,4862.623,4863.534
+10,2,1,1,6,msgReceivedWords,"super ",1047.635,1048.471,4863.54,4864.376
+10,2,1,1,6,msgReceivedWords,"simple! ",1048.485,1049.804,4864.39,4865.708
+10,2,1,1,6,msgReceivedWords,"Just ",1049.82,1050.718,4865.724,4866.621
+10,2,1,1,6,msgReceivedWords,"creamy ",1050.721,1051.578,4866.624,4867.481
+10,2,1,1,6,msgReceivedWords,"cheddar,",1051.588,1052.507,4867.49,4868.409
+10,2,1,1,6,msgReceivedWords," ",1052.522,1053.098,4868.424,4869
+10,2,1,1,6,msgReceivedWords,"a ",1053.105,1053.754,4869.007,4869.656
+10,2,1,1,6,msgReceivedWords,"splash ",1053.756,1055.082,4869.657,4870.983
+10,2,1,1,6,msgReceivedWords,"of ",1055.09,1055.69,4870.991,4871.59
+10,2,1,1,6,msgReceivedWords,"milk,",1055.691,1056.928,4871.591,4872.828
+10,2,1,1,6,msgReceivedWords," ",1056.941,1058.141,4872.841,4874.041
+10,2,1,1,6,msgReceivedWords,"and ",1058.159,1059.377,4874.058,4875.276
+10,2,1,1,6,msgReceivedWords,"elbow ",1059.393,1060.49,4875.291,4876.388
+10,2,1,1,6,msgReceivedWords,"macaroni.",1060.493,1061.608,4876.391,4877.506
+10,2,1,1,6,msgReceivedWords," ",1061.611,1062.624,4877.508,4878.521
+10,2,1,1,6,msgReceivedWords,"Sometimes ",1062.629,1063.886,4878.524,4879.781
+10,2,1,1,6,msgReceivedWords,"I ",1063.897,1064.691,4879.791,4880.585
+10,2,1,1,6,msgReceivedWords,"throw ",1064.698,1065.366,4880.591,4881.259
+10,2,1,1,6,msgReceivedWords,"in ",1065.382,1065.996,4881.274,4881.888
+10,2,1,1,6,msgReceivedWords,"a ",1066,1067.333,4881.892,4883.225
+10,2,1,1,6,msgReceivedWords,"bit ",1067.351,1068.787,4883.241,4884.677
+10,2,1,1,6,msgReceivedWords,"of ",1068.803,1069.665,4884.691,4885.553
+10,2,1,1,6,msgReceivedWords,"garlic ",1069.671,1070.618,4885.558,4886.506
+10,2,1,1,6,msgReceivedWords,"powder ",1070.622,1071.551,4886.508,4887.438
+10,2,1,1,6,msgReceivedWords,"for ",1071.555,1072.086,4887.442,4887.973
+10,2,1,1,6,msgReceivedWords,"extra ",1072.089,1073.379,4887.975,4889.265
+10,2,1,1,6,msgReceivedWords,"flavor.",1073.391,1074.265,4889.275,4890.15
+10,2,1,1,6,msgReceivedWords," ",1074.275,1074.903,4890.159,4890.787
+10,2,1,1,6,msgReceivedWords,"</lowercase></lowercase>​",1074.909,1075.532,4890.792,4891.415
+10,2,1,1,6,msgReceived,"<lowercase><lowercase>I keep it super simple! Just creamy cheddar, a splash of milk, and elbow macaroni. Sometimes I throw in a bit of garlic powder for extra flavor. </lowercase></lowercase>​",1045.25,1075.544,4861.157,4891.425
+10,2,1,1,6,likeGiven,"+1",1075.544,1077.512,4891.426,4893.393
+10,2,1,1,6,likeGiven,"+1",1075.544,1077.912,4891.426,4893.792
+10,2,1,1,6,nodislikeGiven,"0",1075.544,1085.555,4891.426,4901.426
+10,2,1,1,6,totalLikesGiven,"2",1075.544,1085.555,4891.426,4901.426
+10,2,1,1,7,msgSent,"that sounds delicious. I'll have to try it sometime. I don't eat a lot of mac and cheese",1086.556,1108.325,4902.426,4924.178
+10,2,1,1,29,rewardPunish_4,"3",1113.329,1114.947,4929.178,4930.795
+10,2,1,1,7,likeReceived,"1",1116.616,1118.802,4932.479,4934.645
+10,2,1,1,7,likeReceived,"1",1118.802,1121.254,4934.645,4937.095
+10,2,1,1,7,likeReceived,"1",1121.254,1124.508,4937.095,4940.346
+10,2,1,1,7,likesReceivedTotal,"2",1116.616,1124.508,4932.479,4940.346
+10,2,1,1,8,msgReceivedWords,"<lowercase><lowercase>Definitely ",1136.621,1137.31,4952.447,4953.135
+10,2,1,1,8,msgReceivedWords,"give ",1137.322,1137.948,4953.146,4953.772
+10,2,1,1,8,msgReceivedWords,"it ",1137.956,1139.26,4953.78,4955.083
+10,2,1,1,8,msgReceivedWords,"a ",1139.274,1140.703,4955.097,4956.526
+10,2,1,1,8,msgReceivedWords,"go,",1140.708,1141.533,4956.53,4957.356
+10,2,1,1,8,msgReceivedWords," ",1141.542,1142.962,4957.363,4958.783
+10,2,1,1,8,msgReceivedWords,"it’s ",1142.977,1143.479,4958.797,4959.298
+10,2,1,1,8,msgReceivedWords,"super ",1143.495,1144.478,4959.313,4960.297
+10,2,1,1,8,msgReceivedWords,"comforting! ",1144.479,1145.438,4960.297,4961.256
+10,2,1,1,8,msgReceivedWords,"Do ",1145.446,1146.697,4961.264,4962.514
+10,2,1,1,8,msgReceivedWords,"you ",1146.715,1148.098,4962.53,4963.913
+10,2,1,1,8,msgReceivedWords,"have ",1148.099,1148.895,4963.914,4964.71
+10,2,1,1,8,msgReceivedWords,"any ",1148.899,1149.74,4964.714,4965.554
+10,2,1,1,8,msgReceivedWords,"dishes ",1149.75,1151.229,4965.564,4967.042
+10,2,1,1,8,msgReceivedWords,"you ",1151.234,1152.205,4967.047,4968.019
+10,2,1,1,8,msgReceivedWords,"cook ",1152.218,1153.354,4968.031,4969.166
+10,2,1,1,8,msgReceivedWords,"often ",1153.37,1153.88,4969.181,4969.692
+10,2,1,1,8,msgReceivedWords,"besides ",1153.887,1155.38,4969.698,4971.191
+10,2,1,1,8,msgReceivedWords,"the ",1155.389,1156.049,4971.198,4971.857
+10,2,1,1,8,msgReceivedWords,"rice ",1156.057,1157.367,4971.864,4973.174
+10,2,1,1,8,msgReceivedWords,"and ",1157.375,1158.856,4973.181,4974.662
+10,2,1,1,8,msgReceivedWords,"yogurt?</lowercase></lowercase>​",1158.86,1160.332,4974.665,4976.136
+10,2,1,1,8,msgReceived,"<lowercase><lowercase>Definitely give it a go, it’s super comforting! Do you have any dishes you cook often besides the rice and yogurt?</lowercase></lowercase>​",1136.621,1160.345,4952.446,4976.148
+10,2,1,1,8,likeGiven,"+1",1160.345,1165.865,4976.149,4981.666
+10,2,1,1,8,likeGiven,"+1",1160.345,1166.432,4976.149,4982.232
+10,2,1,1,8,nodislikeGiven,"0",1160.345,1170.353,4976.149,4986.149
+10,2,1,1,8,totalLikesGiven,"2",1160.345,1170.353,4976.149,4986.149
+10,2,1,1,10,feelings,"done",1173.89,1177.778,4989.683,4993.566
+10,2,1,1,10,likability,"8",1181.249,1183.734,4997.034,4999.517
+10,2,1,1,10,likabilityRev,"8",1186.036,1187.721,5001.817,5003.5

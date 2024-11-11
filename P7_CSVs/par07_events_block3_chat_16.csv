@@ -1,0 +1,110 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+15,3,1,1,15,prompt,"What type of food do you like and why?",1266.1,1270.303,7247.261,7251.461
+15,3,1,1,1,msgSent,"I like asian food, either east asian, or south asian. ",1270.303,1290.571,7251.461,7271.712
+15,3,1,1,1,likeReceived,"1",1295.627,1298.797,7276.779,7279.93
+15,3,1,1,1,likeReceived,"1",1298.797,1301.1,7279.93,7282.23
+15,3,1,1,1,likeReceived,"1",1301.1,1303.753,7282.23,7284.88
+15,3,1,1,1,likeReceived,"1",1303.753,1305.855,7284.88,7286.98
+15,3,1,1,1,likesReceivedTotal,"3",1295.627,1305.855,7276.779,7286.98
+15,3,1,1,2,msgReceivedWords,"<lowercase>That's ",1333.98,1334.522,7315.083,7315.625
+15,3,1,1,2,msgReceivedWords,"awesome! ",1334.531,1335.059,7315.632,7316.161
+15,3,1,1,2,msgReceivedWords,"I ",1335.065,1335.807,7316.166,7316.908
+15,3,1,1,2,msgReceivedWords,"also ",1335.816,1336.375,7316.916,7317.475
+15,3,1,1,2,msgReceivedWords,"really ",1336.383,1337.409,7317.482,7318.508
+15,3,1,1,2,msgReceivedWords,"enjoy ",1337.417,1338.724,7318.516,7319.823
+15,3,1,1,2,msgReceivedWords,"Asian ",1338.736,1339.845,7319.833,7320.941
+15,3,1,1,2,msgReceivedWords,"cuisine,",1339.854,1340.756,7320.949,7321.851
+15,3,1,1,2,msgReceivedWords," ",1340.772,1342.1,7321.866,7323.194
+15,3,1,1,2,msgReceivedWords,"especially ",1342.108,1343.318,7323.2,7324.41
+15,3,1,1,2,msgReceivedWords,"the ",1343.325,1343.954,7324.416,7325.045
+15,3,1,1,2,msgReceivedWords,"flavors ",1343.959,1345.241,7325.05,7326.331
+15,3,1,1,2,msgReceivedWords,"from ",1345.243,1346.261,7326.333,7327.351
+15,3,1,1,2,msgReceivedWords,"East ",1346.277,1347.547,7327.366,7328.636
+15,3,1,1,2,msgReceivedWords,"and ",1347.562,1348.752,7328.65,7329.84
+15,3,1,1,2,msgReceivedWords,"South ",1348.763,1350.158,7329.85,7331.245
+15,3,1,1,2,msgReceivedWords,"Asia.",1350.164,1351.62,7331.25,7332.706
+15,3,1,1,2,msgReceivedWords," ",1351.632,1352.693,7332.717,7333.778
+15,3,1,1,2,msgReceivedWords,"What's ",1352.7,1353.551,7333.784,7334.634
+15,3,1,1,2,msgReceivedWords,"your ",1353.567,1354.833,7334.65,7335.916
+15,3,1,1,2,msgReceivedWords,"favorite ",1354.836,1355.487,7335.917,7336.568
+15,3,1,1,2,msgReceivedWords,"dish?</lowercase>​",1355.503,1356.624,7336.584,7337.705
+15,3,1,1,2,msgReceived,"<lowercase>That's awesome! I also really enjoy Asian cuisine, especially the flavors from East and South Asia. What's your favorite dish?</lowercase>​",1333.98,1356.637,7315.082,7337.717
+15,3,1,1,2,likeGiven,"+1",1356.637,1358.904,7337.718,7339.984
+15,3,1,1,2,likeGiven,"+1",1356.637,1359.121,7337.718,7340.201
+15,3,1,1,2,nodislikeGiven,"0",1356.637,1366.645,7337.718,7347.718
+15,3,1,1,2,totalLikesGiven,"2",1356.637,1366.645,7337.718,7347.718
+15,3,1,1,3,msgSent,"I enjoy good dumplings, either from india, called momos or the ones from the eastern parts of asia",1367.646,1400.745,7348.718,7381.787
+15,3,1,1,38,rewardPunish_2,"10",1405.748,1408.734,7386.788,7389.771
+15,3,1,1,3,likeReceived,"1",1410.319,1413.222,7391.371,7394.254
+15,3,1,1,3,likeReceived,"1",1413.222,1415.041,7394.254,7396.071
+15,3,1,1,3,likeReceived,"1",1415.041,1418.411,7396.071,7399.438
+15,3,1,1,3,likesReceivedTotal,"2",1410.319,1418.411,7391.371,7399.438
+15,3,1,1,4,msgReceivedWords,"<lowercase><lowercase>Oh,",1478.589,1479.508,7459.56,7460.479
+15,3,1,1,4,msgReceivedWords," ",1479.523,1480.893,7460.493,7461.862
+15,3,1,1,4,msgReceivedWords,"dumplings ",1480.908,1482.041,7461.876,7463.009
+15,3,1,1,4,msgReceivedWords,"are ",1482.043,1482.631,7463.009,7463.597
+15,3,1,1,4,msgReceivedWords,"the ",1482.644,1483.383,7463.609,7464.348
+15,3,1,1,4,msgReceivedWords,"best! ",1483.394,1484.843,7464.359,7465.808
+15,3,1,1,4,msgReceivedWords,"Momos ",1484.846,1485.891,7465.81,7466.855
+15,3,1,1,4,msgReceivedWords,"are ",1485.896,1487.287,7466.86,7468.25
+15,3,1,1,4,msgReceivedWords,"so ",1487.297,1488.596,7468.26,7469.559
+15,3,1,1,4,msgReceivedWords,"delicious ",1488.598,1489.529,7469.56,7470.492
+15,3,1,1,4,msgReceivedWords,"with ",1489.531,1490.972,7470.493,7471.934
+15,3,1,1,4,msgReceivedWords,"that ",1490.982,1491.623,7471.943,7472.584
+15,3,1,1,4,msgReceivedWords,"spicy ",1491.632,1492.509,7472.594,7473.47
+15,3,1,1,4,msgReceivedWords,"sauce.",1492.516,1493.231,7473.477,7474.191
+15,3,1,1,4,msgReceivedWords," ",1493.234,1494.57,7474.194,7475.53
+15,3,1,1,4,msgReceivedWords,"Have ",1494.585,1495.602,7475.544,7476.56
+15,3,1,1,4,msgReceivedWords,"you ",1495.603,1497.035,7476.561,7477.993
+15,3,1,1,4,msgReceivedWords,"tried ",1497.038,1498.157,7477.994,7479.114
+15,3,1,1,4,msgReceivedWords,"making ",1498.172,1499.38,7479.127,7480.335
+15,3,1,1,4,msgReceivedWords,"them ",1499.389,1500.889,7480.344,7481.844
+15,3,1,1,4,msgReceivedWords,"at ",1500.89,1502.231,7481.844,7483.186
+15,3,1,1,4,msgReceivedWords,"home</lowercase></lowercase>​",1502.242,1503.318,7483.194,7484.271
+15,3,1,1,4,msgReceived,"<lowercase><lowercase>Oh, dumplings are the best! Momos are so delicious with that spicy sauce. Have you tried making them at home</lowercase></lowercase>​",1478.589,1503.327,7459.559,7484.278
+15,3,1,1,4,likeGiven,"+1",1503.327,1505.896,7484.278,7486.845
+15,3,1,1,4,likeGiven,"+1",1503.327,1506.046,7484.278,7486.995
+15,3,1,1,4,likeGiven,"+1",1503.327,1506.213,7484.278,7487.162
+15,3,1,1,4,likeGiven,"+1",1503.327,1506.647,7484.278,7487.595
+15,3,1,1,4,nodislikeGiven,"0",1503.327,1513.338,7484.278,7494.278
+15,3,1,1,4,totalLikesGiven,"4",1503.327,1513.338,7484.278,7494.278
+15,3,1,1,5,msgSent,"I actually make dumplings all the time. the recipe is a bit time consuming, but it's worth it",1514.338,1543.716,7495.278,7524.631
+15,3,1,1,39,rewardPunish_2,"10",1548.72,1549.904,7529.631,7530.814
+15,3,1,1,5,likeReceived,"1",1552.24,1554.592,7533.165,7535.498
+15,3,1,1,5,likeReceived,"1",1554.592,1556.128,7535.498,7537.031
+15,3,1,1,5,likeReceived,"1",1556.128,1558.097,7537.031,7538.999
+15,3,1,1,5,likeReceived,"1",1558.097,1560.016,7538.999,7540.915
+15,3,1,1,5,likeReceived,"1",1560.016,1562.135,7540.915,7543.032
+15,3,1,1,5,likesReceivedTotal,"4",1552.24,1562.135,7533.165,7543.032
+15,3,1,1,6,msgReceivedWords,"<lowercase><lowercase>That's ",1578.255,1579.046,7559.133,7559.925
+15,3,1,1,6,msgReceivedWords,"so ",1579.055,1580.182,7559.933,7561.06
+15,3,1,1,6,msgReceivedWords,"cool! ",1580.19,1580.713,7561.066,7561.589
+15,3,1,1,6,msgReceivedWords,"I ",1580.724,1582.158,7561.6,7563.035
+15,3,1,1,6,msgReceivedWords,"totally ",1582.176,1583.049,7563.05,7563.923
+15,3,1,1,6,msgReceivedWords,"agree,",1583.06,1583.682,7563.934,7564.555
+15,3,1,1,6,msgReceivedWords," ",1583.694,1585.034,7564.567,7565.907
+15,3,1,1,6,msgReceivedWords,"making ",1585.045,1586.096,7565.917,7566.967
+15,3,1,1,6,msgReceivedWords,"them ",1586.113,1587.103,7566.984,7567.974
+15,3,1,1,6,msgReceivedWords,"takes ",1587.115,1588.46,7567.984,7569.329
+15,3,1,1,6,msgReceivedWords,"time,",1588.466,1589.882,7569.334,7570.75
+15,3,1,1,6,msgReceivedWords," ",1589.883,1590.818,7570.75,7571.685
+15,3,1,1,6,msgReceivedWords,"but ",1590.833,1591.648,7571.701,7572.516
+15,3,1,1,6,msgReceivedWords,"they ",1591.65,1592.892,7572.518,7573.76
+15,3,1,1,6,msgReceivedWords,"taste ",1592.901,1593.526,7573.768,7574.393
+15,3,1,1,6,msgReceivedWords,"amazing.",1593.535,1594.064,7574.401,7574.93
+15,3,1,1,6,msgReceivedWords," ",1594.069,1595.098,7574.934,7575.964
+15,3,1,1,6,msgReceivedWords,"Got ",1595.103,1596.513,7575.968,7577.377
+15,3,1,1,6,msgReceivedWords,"any ",1596.521,1597.054,7577.384,7577.917
+15,3,1,1,6,msgReceivedWords,"special ",1597.056,1598.497,7577.918,7579.359
+15,3,1,1,6,msgReceivedWords,"ingredients ",1598.508,1599.497,7579.368,7580.357
+15,3,1,1,6,msgReceivedWords,"you ",1599.509,1600.016,7580.368,7580.875
+15,3,1,1,6,msgReceivedWords,"add?</lowercase></lowercase>​",1600.026,1601.417,7580.885,7582.276
+15,3,1,1,6,msgReceived,"<lowercase><lowercase>That's so cool! I totally agree, making them takes time, but they taste amazing. Got any special ingredients you add?</lowercase></lowercase>​",1578.255,1601.427,7559.133,7582.285
+15,3,1,1,6,likeGiven,"+1",1601.427,1604.28,7582.286,7585.135
+15,3,1,1,6,likeGiven,"+1",1601.427,1604.48,7582.286,7585.335
+15,3,1,1,6,likeGiven,"+1",1601.427,1604.847,7582.286,7585.702
+15,3,1,1,6,nodislikeGiven,"0",1601.427,1611.434,7582.286,7592.286
+15,3,1,1,6,totalLikesGiven,"3",1601.427,1611.434,7582.286,7592.286
+15,3,1,1,15,feelings,"happy",1614.954,1617.589,7595.803,7598.436
+15,3,1,1,15,likability,"10",1620.325,1626.815,7601.17,7607.654
+15,3,1,1,15,likabilityRev,"9",1630.636,1634.139,7611.471,7614.971

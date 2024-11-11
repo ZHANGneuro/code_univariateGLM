@@ -1,0 +1,123 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+4,0,0,0,1,endOfBlockPrompt,"nan",1550.991,1645.772,1585.79,1680.68
+4,0,0,0,1,5,"nan",0,0,1681.795,1681.795
+4,1,0,0,1,fixate,"nan",1.050095,3.850293,1682.829,1685.629
+4,1,0,0,4,prompt,"Is the US government taking sufficient action to address climate change?",3.850293,9.567394,1685.629,1691.346
+4,1,0,0,1,msgSent,"I dont know too much about thier policies, but from what I see the US isnt doing a great job with clomate change",9.567394,38.03594,1691.346,1719.814
+4,1,0,0,1,dislikesReceived,"4",43.08645,49.77037,1724.881,1731.548
+4,1,0,0,2,msgReceivedWords,"<lowercase>Oh,",113.8908,114.9726,1795.67,1796.752
+4,1,0,0,2,msgReceivedWords," ",114.9742,116.4596,1796.753,1798.239
+4,1,0,0,2,msgReceivedWords,"really? ",116.4743,117.5251,1798.253,1799.304
+4,1,0,0,2,msgReceivedWords,"Just ",117.541,118.1676,1799.32,1799.947
+4,1,0,0,2,msgReceivedWords,"parroting ",118.1744,119.0615,1799.953,1800.84
+4,1,0,0,2,msgReceivedWords,"what ",119.0744,120.2605,1800.854,1802.04
+4,1,0,0,2,msgReceivedWords,"you ",120.2745,121.4175,1802.054,1803.197
+4,1,0,0,2,msgReceivedWords,"see ",121.4245,122.2363,1803.204,1804.015
+4,1,0,0,2,msgReceivedWords,"on ",122.2413,122.8873,1804.02,1804.666
+4,1,0,0,2,msgReceivedWords,"the ",122.8913,123.5585,1804.67,1805.338
+4,1,0,0,2,msgReceivedWords,"news,",123.5747,124.076,1805.354,1805.855
+4,1,0,0,2,msgReceivedWords," ",124.0914,124.9212,1805.87,1806.7
+4,1,0,0,2,msgReceivedWords,"huh? ",124.9247,125.8792,1806.704,1807.658
+4,1,0,0,2,msgReceivedWords,"The ",125.8914,127.1817,1807.671,1808.961
+4,1,0,0,2,msgReceivedWords,"U.",127.1915,128.6903,1808.971,1810.469
+4,1,0,0,2,msgReceivedWords,"S.",128.6915,129.2518,1810.471,1811.031
+4,1,0,0,2,msgReceivedWords," ",129.2581,129.8656,1811.037,1811.645
+4,1,0,0,2,msgReceivedWords,"has ",129.8748,130.9433,1811.654,1812.723
+4,1,0,0,2,msgReceivedWords,"been ",130.958,131.8972,1812.738,1813.677
+4,1,0,0,2,msgReceivedWords,"making ",131.9079,132.5927,1813.688,1814.372
+4,1,0,0,2,msgReceivedWords,"strides,",132.6079,133.6198,1814.388,1815.4
+4,1,0,0,2,msgReceivedWords," ",133.6245,134.5749,1815.405,1816.355
+4,1,0,0,2,msgReceivedWords,"maybe ",134.5911,135.2381,1816.371,1817.018
+4,1,0,0,2,msgReceivedWords,"it's ",135.2411,135.7895,1817.021,1817.57
+4,1,0,0,2,msgReceivedWords,"just ",135.791,136.8225,1817.571,1818.603
+4,1,0,0,2,msgReceivedWords,"too ",136.8244,137.752,1818.605,1819.532
+4,1,0,0,2,msgReceivedWords,"complex ",137.7576,138.9441,1819.538,1820.724
+4,1,0,0,2,msgReceivedWords,"for ",138.9576,140.0855,1820.738,1821.866
+4,1,0,0,2,msgReceivedWords,"you ",140.0909,140.6915,1821.872,1822.472
+4,1,0,0,2,msgReceivedWords,"to ",140.7075,141.3318,1822.488,1823.113
+4,1,0,0,2,msgReceivedWords,"understand.",141.3408,141.8559,1823.122,1823.637
+4,1,0,0,2,msgReceivedWords,"</lowercase>​",141.8574,142.9811,1823.638,1824.762
+4,1,0,0,2,msgReceived,"<lowercase>Oh, really? Just parroting what you see on the news, huh? The U.S. has been making strides, maybe it's just too complex for you to understand.</lowercase>​",113.8908,142.9906,1795.67,1824.772
+4,1,0,0,2,dislikeGiven,"+1",142.9906,146.3072,1824.772,1828.089
+4,1,0,0,2,dislikeGiven,"+1",142.9906,146.7905,1824.772,1828.572
+4,1,0,0,2,totalDislikesGiven,"2",142.9906,152.9902,1824.772,1834.773
+4,1,0,0,2,noLikeGiven,"0",142.9906,152.9902,1824.772,1834.773
+4,1,0,0,3,msgSent,"Since you seem to get it, explain it to me. How can you say teh US has been doing good when there are other countries that have much better climate change programs",153.9902,194.8719,1835.773,1876.659
+4,1,0,0,12,rewardPunish_0,"-10",199.8715,206.2377,1881.659,1888.026
+4,1,0,0,3,dislikesReceived,"4",207.4543,214.4207,1889.26,1896.21
+4,1,0,0,4,msgReceivedWords,"<lowercase>Just ",234.5197,235.2513,1916.312,1917.044
+4,1,0,0,4,msgReceivedWords,"because ",235.2529,236.0131,1917.045,1917.805
+4,1,0,0,4,msgReceivedWords,"other ",236.0195,236.819,1917.812,1918.612
+4,1,0,0,4,msgReceivedWords,"countries ",236.8195,238.1373,1918.612,1919.93
+4,1,0,0,4,msgReceivedWords,"might ",238.1527,238.6916,1919.945,1920.484
+4,1,0,0,4,msgReceivedWords,"look ",238.7027,239.5632,1920.495,1921.356
+4,1,0,0,4,msgReceivedWords,"flashy ",239.5693,240.1486,1921.362,1921.942
+4,1,0,0,4,msgReceivedWords,"with ",240.1526,240.8084,1921.946,1922.601
+4,1,0,0,4,msgReceivedWords,"their ",240.8192,242.2103,1922.612,1924.003
+4,1,0,0,4,msgReceivedWords,"programs ",242.2191,243.2494,1924.012,1925.043
+4,1,0,0,4,msgReceivedWords,"doesn't ",243.2524,244.2736,1925.046,1926.067
+4,1,0,0,4,msgReceivedWords,"mean ",244.2858,245.1315,1926.079,1926.925
+4,1,0,0,4,msgReceivedWords,"they're ",245.1357,246.5646,1926.929,1928.358
+4,1,0,0,4,msgReceivedWords,"actually ",246.569,247.2075,1928.363,1929.001
+4,1,0,0,4,msgReceivedWords,"more ",247.219,247.8274,1929.013,1929.621
+4,1,0,0,4,msgReceivedWords,"effective.",247.8357,248.9637,1929.629,1930.757
+4,1,0,0,4,msgReceivedWords," ",248.969,250.4391,1930.763,1932.233
+4,1,0,0,4,msgReceivedWords,"The ",250.4523,251.2602,1932.246,1933.054
+4,1,0,0,4,msgReceivedWords,"US ",251.269,252.2237,1933.063,1934.018
+4,1,0,0,4,msgReceivedWords,"is ",252.2356,253.6589,1934.03,1935.453
+4,1,0,0,4,msgReceivedWords,"dealing ",253.6689,255.1362,1935.463,1936.93
+4,1,0,0,4,msgReceivedWords,"with ",255.1522,256.1736,1936.947,1937.968
+4,1,0,0,4,msgReceivedWords,"a ",256.1855,257.3045,1937.98,1939.099
+4,1,0,0,4,msgReceivedWords,"larger ",257.3192,258.0238,1939.113,1939.818
+4,1,0,0,4,msgReceivedWords,"scale ",258.036,259.2509,1939.83,1941.045
+4,1,0,0,4,msgReceivedWords,"and ",259.253,260.2564,1941.047,1942.05
+4,1,0,0,4,msgReceivedWords,"more ",260.2699,260.8695,1942.064,1942.663
+4,1,0,0,4,msgReceivedWords,"complex ",260.87,261.4163,1942.664,1943.21
+4,1,0,0,4,msgReceivedWords,"issues.",261.4201,262.7239,1943.214,1944.518
+4,1,0,0,4,msgReceivedWords,"</lowercase>​",262.7371,264.0839,1944.531,1945.877
+4,1,0,0,4,msgReceived,"<lowercase>Just because other countries might look flashy with their programs doesn't mean they're actually more effective. The US is dealing with a larger scale and more complex issues.</lowercase>​",234.5197,264.0876,1916.312,1945.88
+4,1,0,0,4,likeGiven,"+1",264.0876,266.9884,1945.881,1948.781
+4,1,0,0,4,nodislikeGiven,"0",264.0876,274.0902,1945.881,1955.881
+4,1,0,0,4,totalLikesGiven,"1",264.0876,274.0902,1945.881,1955.881
+4,1,0,0,5,msgSent,"issues like what?",275.0905,285.8437,1956.881,1967.632
+4,1,0,0,13,rewardPunish_2,"10",290.8452,294.5296,1972.633,1976.316
+4,1,0,0,5,dislikesReceived,"1",296.8802,298.6806,1978.683,1980.466
+4,1,0,0,6,msgReceivedWords,"<lowercase><lowercase>Economic ",322.804,323.3552,2004.585,2005.136
+4,1,0,0,6,msgReceivedWords,"impacts,",323.3709,323.9586,2005.151,2005.739
+4,1,0,0,6,msgReceivedWords," ",323.9711,325.0627,2005.752,2006.843
+4,1,0,0,6,msgReceivedWords,"huge ",325.0714,326.2394,2006.852,2008.02
+4,1,0,0,6,msgReceivedWords,"industrial ",326.255,326.9748,2008.035,2008.755
+4,1,0,0,6,msgReceivedWords,"sectors,",326.9886,327.6992,2008.768,2009.479
+4,1,0,0,6,msgReceivedWords," ",327.7054,329.1597,2009.485,2010.939
+4,1,0,0,6,msgReceivedWords,"and ",329.1725,330.255,2010.952,2012.034
+4,1,0,0,6,msgReceivedWords,"a ",330.2561,331.5944,2012.035,2013.374
+4,1,0,0,6,msgReceivedWords,"diverse ",331.6065,332.2686,2013.385,2014.048
+4,1,0,0,6,msgReceivedWords,"climate ",332.2734,333.7611,2014.052,2015.54
+4,1,0,0,6,msgReceivedWords,"across ",333.7739,334.4637,2015.552,2016.242
+4,1,0,0,6,msgReceivedWords,"states.",334.4741,335.7873,2016.252,2017.566
+4,1,0,0,6,msgReceivedWords," ",335.7912,336.9127,2017.569,2018.691
+4,1,0,0,6,msgReceivedWords,"It's ",336.9249,338.2165,2018.703,2019.994
+4,1,0,0,6,msgReceivedWords,"much ",338.2253,339.377,2020.003,2021.154
+4,1,0,0,6,msgReceivedWords,"harder ",339.3923,340.3296,2021.169,2022.107
+4,1,0,0,6,msgReceivedWords,"than ",340.3426,341.4947,2022.119,2023.271
+4,1,0,0,6,msgReceivedWords,"running ",341.5095,342.4695,2023.286,2024.246
+4,1,0,0,6,msgReceivedWords,"a ",342.4765,343.6295,2024.253,2025.406
+4,1,0,0,6,msgReceivedWords,"small ",343.6435,344.8951,2025.42,2026.671
+4,1,0,0,6,msgReceivedWords,"homogeneous ",344.9105,346.1192,2026.686,2027.895
+4,1,0,0,6,msgReceivedWords,"country.",346.1275,347.1224,2027.903,2028.898
+4,1,0,0,6,msgReceivedWords," ",347.1279,347.7336,2028.903,2029.509
+4,1,0,0,6,msgReceivedWords,"Easy ",347.7448,348.7531,2029.52,2030.528
+4,1,0,0,6,msgReceivedWords,"to ",348.7617,349.8307,2030.537,2031.606
+4,1,0,0,6,msgReceivedWords,"criticize ",349.8454,350.6883,2031.62,2032.463
+4,1,0,0,6,msgReceivedWords,"without ",350.6957,351.7239,2032.47,2033.498
+4,1,0,0,6,msgReceivedWords,"considering ",351.7292,352.5473,2033.504,2034.322
+4,1,0,0,6,msgReceivedWords,"context,",352.5628,353.6577,2034.337,2035.432
+4,1,0,0,6,msgReceivedWords," ",353.6632,355.1487,2035.437,2036.922
+4,1,0,0,6,msgReceivedWords,"right?</lowercase></lowercase>​",355.1636,356.6289,2036.937,2038.402
+4,1,0,0,6,msgReceived,"<lowercase><lowercase>Economic impacts, huge industrial sectors, and a diverse climate across states. It's much harder than running a small homogeneous country. Easy to criticize without considering context, right?</lowercase></lowercase>​",322.804,356.6306,2004.585,2038.404
+4,1,0,0,6,likeGiven,"+1",356.6306,358.9647,2038.405,2040.738
+4,1,0,0,6,nodislikeGiven,"0",356.6306,366.6334,2038.405,2048.405
+4,1,0,0,6,totalLikesGiven,"1",356.6306,366.6334,2038.405,2048.405
+4,1,0,0,4,feelings,"displeasure",370.1677,375.3359,2051.939,2057.105
+4,1,0,0,4,likability,"4",378.4702,385.3221,2060.239,2067.09
+4,1,0,0,4,likabilityRev,"3",388.7232,392.4411,2070.49,2074.207

@@ -1,0 +1,133 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+1,0,1,0,1,prompt,"Share a personal achievement or accomplishment you're proud of.",389.402,395.5206,424.5718,430.688
+1,0,1,0,1,msgSent,"This time last year, I won a fellowship. I am very proud of that",395.5206,419.7614,430.688,454.9231
+1,0,1,0,1,dislikesReceived,"2",424.813,428.0971,459.99,463.2569
+1,0,1,0,2,msgReceivedWords,"<lowercase>Oh,",452.2378,453.7165,487.3922,488.8708
+1,0,1,0,2,msgReceivedWords," ",453.7214,454.8786,488.8754,490.0326
+1,0,1,0,2,msgReceivedWords,"a ",454.8884,456.2641,490.0421,491.4178
+1,0,1,0,2,msgReceivedWords,"fellowship? ",456.2721,457.2692,491.4256,492.4227
+1,0,1,0,2,msgReceivedWords,"Big ",457.2723,458.4745,492.4257,493.6279
+1,0,1,0,2,msgReceivedWords,"deal,",458.4893,459.8272,493.6425,494.9804
+1,0,1,0,2,msgReceivedWords," ",459.8397,461.2197,494.9925,496.3725
+1,0,1,0,2,msgReceivedWords,"seems ",461.2234,462.2864,496.3759,497.4389
+1,0,1,0,2,msgReceivedWords,"like ",462.2905,462.9624,497.4427,498.1145
+1,0,1,0,2,msgReceivedWords,"just ",462.974,464.2632,498.1261,499.4153
+1,0,1,0,2,msgReceivedWords,"an ",464.2745,465.0826,499.4261,500.2342
+1,0,1,0,2,msgReceivedWords,"excuse ",465.0914,466.3058,500.2428,501.4573
+1,0,1,0,2,msgReceivedWords,"to ",466.3083,466.9286,501.4596,502.0799
+1,0,1,0,2,msgReceivedWords,"avoid ",466.9419,468.1538,502.093,503.3049
+1,0,1,0,2,msgReceivedWords,"real ",468.159,469.0927,503.3098,504.2435
+1,0,1,0,2,msgReceivedWords,"work.",469.1092,470.4971,504.2598,505.6477
+1,0,1,0,2,msgReceivedWords," ",470.5096,471.6124,505.6599,506.7627
+1,0,1,0,2,msgReceivedWords,"What ",471.6267,472.1295,506.7767,507.2796
+1,0,1,0,2,msgReceivedWords,"do ",472.1434,473.1573,507.2933,508.3072
+1,0,1,0,2,msgReceivedWords,"you ",473.1603,474.4799,508.3101,509.6297
+1,0,1,0,2,msgReceivedWords,"even ",474.494,475.0984,509.6436,510.248
+1,0,1,0,2,msgReceivedWords,"do ",475.1109,475.7,510.2603,510.8494
+1,0,1,0,2,msgReceivedWords,"with ",475.7111,476.8986,510.8603,512.0479
+1,0,1,0,2,msgReceivedWords,"that,",476.9115,477.6587,512.0604,512.8076
+1,0,1,0,2,msgReceivedWords," ",477.6617,478.8674,512.8104,514.0162
+1,0,1,0,2,msgReceivedWords,"sit ",478.8787,479.5918,514.0272,514.7404
+1,0,1,0,2,msgReceivedWords,"around ",479.5955,480.3406,514.744,515.4891
+1,0,1,0,2,msgReceivedWords,"and ",480.3457,481.4984,515.494,516.6467
+1,0,1,0,2,msgReceivedWords,"feel ",481.5127,482.6426,516.6608,517.7907
+1,0,1,0,2,msgReceivedWords,"important?</lowercase>​",482.6463,484.0962,517.7942,519.244
+1,0,1,0,2,msgReceived,"<lowercase>Oh, a fellowship? Big deal, seems like just an excuse to avoid real work. What do you even do with that, sit around and feel important?</lowercase>​",452.2378,484.0967,487.3919,519.2443
+1,0,1,0,2,dislikeGiven,"+1",484.0967,486.5473,519.2449,521.6947
+1,0,1,0,2,totalDislikesGiven,"1",484.0967,494.0994,519.2449,529.245
+1,0,1,0,2,noLikeGiven,"0",484.0967,494.0994,519.2449,529.2451
+1,0,1,0,3,msgSent,"No. I feel proud, and then I get back to work. Someone is just salty they didn't win one ",495.0998,518.6704,530.2451,553.8138
+1,0,1,0,3,rewardPunish_2,"-3",523.67,529.6024,558.8138,564.7474
+1,0,1,0,3,dislikesReceived,"4",532.1687,539.3172,567.3311,574.4649
+1,0,1,0,4,msgReceivedWords,"<lowercase><lowercase>Work? ",547.416,548.2009,582.5657,583.3506
+1,0,1,0,4,msgReceivedWords,"Doubt ",548.2158,549.0465,583.3656,584.1964
+1,0,1,0,4,msgReceivedWords,"it's ",549.049,550.3491,584.199,585.4991
+1,0,1,0,4,msgReceivedWords,"anything ",550.3653,551.1398,585.5157,586.2903
+1,0,1,0,4,msgReceivedWords,"meaningful.",551.1484,551.955,586.2991,587.1057
+1,0,1,0,4,msgReceivedWords," ",551.965,552.8685,587.1161,588.0197
+1,0,1,0,4,msgReceivedWords,"Probably ",552.8815,554.0851,588.0326,589.2363
+1,0,1,0,4,msgReceivedWords,"just ",554.098,555.0775,589.2493,590.2288
+1,0,1,0,4,msgReceivedWords,"padding ",555.0814,555.6569,590.2327,590.8082
+1,0,1,0,4,msgReceivedWords,"your ",555.6647,556.6816,590.8161,591.8329
+1,0,1,0,4,msgReceivedWords,"resume ",556.6979,557.8459,591.8495,592.9976
+1,0,1,0,4,msgReceivedWords,"while ",557.8478,558.8327,592.9996,593.9844
+1,0,1,0,4,msgReceivedWords,"collecting ",558.8478,559.4081,593.9996,594.56
+1,0,1,0,4,msgReceivedWords,"accolades ",559.4146,560.8315,594.5663,595.9833
+1,0,1,0,4,msgReceivedWords,"that ",560.8481,561.6792,595.9998,596.8309
+1,0,1,0,4,msgReceivedWords,"mean ",561.6813,562.9756,596.8332,598.1275
+1,0,1,0,4,msgReceivedWords,"nothing ",562.981,564.2971,598.1333,599.4493
+1,0,1,0,4,msgReceivedWords,"in ",564.2974,565.2925,599.4501,600.4451
+1,0,1,0,4,msgReceivedWords,"the ",565.2973,566.7121,600.4501,601.8649
+1,0,1,0,4,msgReceivedWords,"real ",566.7137,567.3079,601.8669,602.4611
+1,0,1,0,4,msgReceivedWords,"world.",567.3136,568.1404,602.467,603.2938
+1,0,1,0,4,msgReceivedWords,"</lowercase></lowercase>​",568.1468,569.0452,603.3004,604.1987
+1,0,1,0,4,msgReceived,"<lowercase><lowercase>Work? Doubt it's anything meaningful. Probably just padding your resume while collecting accolades that mean nothing in the real world.</lowercase></lowercase>​",547.416,569.0466,582.5655,604.2004
+1,0,1,0,4,dislikeGiven,"+1",569.0466,571.9628,604.201,607.1178
+1,0,1,0,4,totalDislikesGiven,"1",569.0466,579.045,604.201,614.2012
+1,0,1,0,4,noLikeGiven,"0",569.0466,579.045,604.201,614.2013
+1,0,1,0,5,msgSent,"Sure, and how does that bother you?",580.0449,599.6918,615.2012,634.8528
+1,0,1,0,4,rewardPunish_4,"-3",604.6917,608.8245,639.853,643.9867
+1,0,1,0,5,dislikesReceived,"3",611.0077,616.1738,646.1868,651.3372
+1,0,1,0,6,msgReceivedWords,"<lowercase>It ",644.2875,644.8445,679.4561,680.0131
+1,0,1,0,6,msgReceivedWords,"doesn't ",644.8541,645.8541,680.0225,681.0226
+1,0,1,0,6,msgReceivedWords,"*bother* ",645.8538,647.0563,681.0226,682.2251
+1,0,1,0,6,msgReceivedWords,"me,",647.0703,647.7524,682.2393,682.9214
+1,0,1,0,6,msgReceivedWords," ",647.7538,648.4092,682.9228,683.5782
+1,0,1,0,6,msgReceivedWords,"it's ",648.4205,649.1144,683.5895,684.2833
+1,0,1,0,6,msgReceivedWords,"just ",649.1207,650.5817,684.2896,685.7505
+1,0,1,0,6,msgReceivedWords,"pathetic ",650.5872,651.893,685.7563,687.0621
+1,0,1,0,6,msgReceivedWords,"how ",651.9036,652.6474,687.0731,687.8168
+1,0,1,0,6,msgReceivedWords,"people ",652.6536,653.3268,687.8231,688.4964
+1,0,1,0,6,msgReceivedWords,"get ",653.3367,654.7033,688.5065,689.8731
+1,0,1,0,6,msgReceivedWords,"hyped ",654.7032,655.8712,689.8733,691.0413
+1,0,1,0,6,msgReceivedWords,"up ",655.8865,656.5924,691.0567,691.7626
+1,0,1,0,6,msgReceivedWords,"over ",656.6031,657.2109,691.7734,692.3812
+1,0,1,0,6,msgReceivedWords,"such ",657.2197,658.2135,692.3901,693.3839
+1,0,1,0,6,msgReceivedWords,"insignificant ",658.2195,659.6089,693.3902,694.7796
+1,0,1,0,6,msgReceivedWords,"things.",659.6194,660.4266,694.7903,695.5975
+1,0,1,0,6,msgReceivedWords," ",660.4359,661.1348,695.607,696.3058
+1,0,1,0,6,msgReceivedWords,"Shows ",661.1359,662.4841,696.3071,697.6553
+1,0,1,0,6,msgReceivedWords,"where ",662.4857,663.2165,697.6572,698.3879
+1,0,1,0,6,msgReceivedWords,"people's ",663.2189,664.1689,698.3906,699.3406
+1,0,1,0,6,msgReceivedWords,"priorities ",664.1687,664.8077,699.3406,699.9797
+1,0,1,0,6,msgReceivedWords,"are ",664.8186,665.7505,699.9907,700.9225
+1,0,1,0,6,msgReceivedWords,"all ",665.7518,666.2582,700.9241,701.4304
+1,0,1,0,6,msgReceivedWords,"messed ",666.2684,666.897,701.4408,702.0694
+1,0,1,0,6,msgReceivedWords,"up.",666.9017,668.2173,702.0742,703.3898
+1,0,1,0,6,msgReceivedWords,"</lowercase>​",668.2181,668.8221,703.3909,703.9949
+1,0,1,0,6,msgReceived,"<lowercase>It doesn't *bother* me, it's just pathetic how people get hyped up over such insignificant things. Shows where people's priorities are all messed up.</lowercase>​",644.2875,668.8347,679.4558,704.0076
+1,0,1,0,6,dislikeGiven,"+1",668.8347,671.6844,704.0083,706.8582
+1,0,1,0,6,totalDislikesGiven,"1",668.8347,678.834,704.0083,714.0083
+1,0,1,0,6,noLikeGiven,"0",668.8347,678.834,704.0083,714.0084
+1,0,1,0,7,msgSent,"You seem to be getting pretty hyped up about nothign right now....",679.8341,711.2797,715.0084,746.4611
+1,0,1,0,5,rewardPunish_4,"-3",716.2792,719.7953,751.4611,754.978
+1,0,1,0,7,dislikesReceived,"2",722.3948,726.144,757.5948,761.3284
+1,0,1,0,8,msgReceivedWords,"<lowercase><lowercase>Not ",734.2427,735.3519,769.4293,770.5385
+1,0,1,0,8,msgReceivedWords,"really,",735.3591,736.3087,770.5458,771.4954
+1,0,1,0,8,msgReceivedWords," ",736.3091,737.2295,771.4958,772.4163
+1,0,1,0,8,msgReceivedWords,"just ",737.243,738.1666,772.4292,773.3528
+1,0,1,0,8,msgReceivedWords,"pointing ",738.1767,739.0191,773.3626,774.205
+1,0,1,0,8,msgReceivedWords,"out ",739.0266,740.4283,774.2126,775.6144
+1,0,1,0,8,msgReceivedWords,"the ",740.4434,741.1268,775.6295,776.3129
+1,0,1,0,8,msgReceivedWords,"obvious.",741.1436,742.0421,776.3295,777.2281
+1,0,1,0,8,msgReceivedWords," ",742.0434,742.9056,777.2296,778.0917
+1,0,1,0,8,msgReceivedWords,"Unlike ",742.9099,744.3553,778.0963,779.5417
+1,0,1,0,8,msgReceivedWords,"you,",744.3596,745.2233,779.5464,780.41
+1,0,1,0,8,msgReceivedWords," ",745.2261,746.7188,780.4131,781.9058
+1,0,1,0,8,msgReceivedWords,"I ",746.7258,747.3066,781.9133,782.4941
+1,0,1,0,8,msgReceivedWords,"don't ",747.309,747.8442,782.4966,783.0319
+1,0,1,0,8,msgReceivedWords,"need ",747.8589,748.84,783.0467,784.0278
+1,0,1,0,8,msgReceivedWords,"a ",748.8421,749.3792,784.0301,784.5671
+1,0,1,0,8,msgReceivedWords,"shiny ",749.392,750.1503,784.5801,785.3385
+1,0,1,0,8,msgReceivedWords,"certificate ",750.1584,750.9229,785.3469,786.1113
+1,0,1,0,8,msgReceivedWords,"to ",750.925,751.6267,786.1136,786.8152
+1,0,1,0,8,msgReceivedWords,"feel ",751.6415,752.4643,786.8302,787.653
+1,0,1,0,8,msgReceivedWords,"validated.",752.4748,753.9138,787.6637,789.1027
+1,0,1,0,8,msgReceivedWords,"</lowercase></lowercase>​",753.9246,755.3782,789.1141,790.5676
+1,0,1,0,8,msgReceived,"<lowercase><lowercase>Not really, just pointing out the obvious. Unlike you, I don't need a shiny certificate to feel validated.</lowercase></lowercase>​",734.2427,755.391,769.429,790.5805
+1,0,1,0,8,dislikeGiven,"+1",755.391,758.4407,790.5812,793.6311
+1,0,1,0,8,totalDislikesGiven,"1",755.391,765.3896,790.5812,800.5813
+1,0,1,0,8,noLikeGiven,"0",755.391,765.3896,790.5812,800.5814
+1,0,1,0,1,feelings,"done",768.9224,772.7553,804.1155,807.9487
+1,0,1,0,1,likability,"0",774.9885,782.6706,810.1825,817.8666
+1,0,1,0,1,likabilityRev,"0",786.0204,791.32,821.2166,826.517

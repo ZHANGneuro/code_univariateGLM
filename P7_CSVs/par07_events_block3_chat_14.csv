@@ -1,0 +1,112 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+13,3,0,1,13,prompt,"Should the US implement stricter gun controls?",465.2457,468.0133,6446.521,6449.287
+13,3,0,1,1,msgSent,"Yes absolutely, the US needs to implement much stricter gun laws. Ideally, guns without a license and a background check would be illegal",468.0133,516.8082,6449.287,6498.074
+13,3,0,1,1,likeReceived,"1",521.8576,524.6073,6503.141,6505.874
+13,3,0,1,1,likeReceived,"1",524.6073,527.1902,6505.874,6508.458
+13,3,0,1,1,likeReceived,"1",527.1902,528.9734,6508.458,6510.241
+13,3,0,1,1,likeReceived,"1",528.9734,532.0563,6510.241,6513.325
+13,3,0,1,1,likesReceivedTotal,"3",521.8576,532.0563,6503.141,6513.325
+13,3,0,1,2,msgReceivedWords,"<lowercase>Totally ",580.1835,581.2383,6561.461,6562.516
+13,3,0,1,2,msgReceivedWords,"agree ",581.2499,582.6063,6562.528,6563.885
+13,3,0,1,2,msgReceivedWords,"with ",582.6163,583.7925,6563.895,6565.071
+13,3,0,1,2,msgReceivedWords,"you.",583.7994,584.9907,6565.079,6566.27
+13,3,0,1,2,msgReceivedWords," ",584.9991,586.2449,6566.278,6567.524
+13,3,0,1,2,msgReceivedWords," ",586.2489,587.3234,6567.529,6568.604
+13,3,0,1,2,msgReceivedWords,"Do ",587.332,588.5767,6568.612,6569.856
+13,3,0,1,2,msgReceivedWords,"you ",588.5817,589.902,6569.862,6571.183
+13,3,0,1,2,msgReceivedWords,"think ",589.9148,591.0273,6571.195,6572.308
+13,3,0,1,2,msgReceivedWords,"there ",591.0313,591.7277,6572.312,6573.008
+13,3,0,1,2,msgReceivedWords,"should ",591.7311,593.182,6573.012,6574.463
+13,3,0,1,2,msgReceivedWords,"be ",593.1976,594.038,6574.479,6575.319
+13,3,0,1,2,msgReceivedWords,"restrictions ",594.0477,595.2716,6575.33,6576.554
+13,3,0,1,2,msgReceivedWords,"on ",595.281,595.8239,6576.563,6577.105
+13,3,0,1,2,msgReceivedWords,"the ",595.8309,597.3151,6577.113,6578.597
+13,3,0,1,2,msgReceivedWords,"types ",597.3307,598.1945,6578.613,6579.477
+13,3,0,1,2,msgReceivedWords,"of ",598.1976,599.5446,6579.479,6580.827
+13,3,0,1,2,msgReceivedWords,"guns ",599.5476,600.8812,6580.83,6582.163
+13,3,0,1,2,msgReceivedWords,"available ",600.8811,602.1078,6582.163,6583.39
+13,3,0,1,2,msgReceivedWords,"too?</lowercase>​",602.1143,602.7125,6583.396,6583.995
+13,3,0,1,2,msgReceived,"<lowercase>Totally agree with you.  Do you think there should be restrictions on the types of guns available too?</lowercase>​",580.1835,602.7141,6561.461,6583.997
+13,3,0,1,2,likeGiven,"+1",602.7141,604.8806,6583.997,6586.164
+13,3,0,1,2,likeGiven,"+1",602.7141,605.1139,6583.997,6586.397
+13,3,0,1,2,likeGiven,"+1",602.7141,605.2805,6583.997,6586.563
+13,3,0,1,2,likeGiven,"+1",602.7141,605.4305,6583.997,6586.713
+13,3,0,1,2,nodislikeGiven,"0",602.7141,612.7124,6583.997,6593.997
+13,3,0,1,2,totalLikesGiven,"4",602.7141,612.7124,6583.997,6593.997
+13,3,0,1,3,msgSent,"Yes. I do not see a reason for anyone not actively in a war zone needing an automatic gun. It's useless for hunting too, so there really is no need",613.7122,654.7237,6594.997,6636.017
+13,3,0,1,34,rewardPunish_2,"10",659.7231,660.9395,6641.017,6642.234
+13,3,0,1,3,likeReceived,"1",662.8561,665.9394,6644.167,6647.234
+13,3,0,1,3,likeReceived,"1",665.9394,668.8224,6647.234,6650.118
+13,3,0,1,3,likeReceived,"1",668.8224,672.0385,6650.118,6653.335
+13,3,0,1,3,likeReceived,"1",672.0385,675.3712,6653.335,6656.668
+13,3,0,1,3,likeReceived,"1",675.3712,677.4708,6656.668,6658.769
+13,3,0,1,3,likesReceivedTotal,"4",662.8561,677.4708,6644.167,6658.769
+13,3,0,1,4,msgReceivedWords,"<lowercase><lowercase>Right? ",697.5839,698.7551,6678.887,6680.058
+13,3,0,1,4,msgReceivedWords,"Completely ",698.7672,700.1053,6680.07,6681.408
+13,3,0,1,4,msgReceivedWords,"unnecessary ",700.1169,701.4313,6681.42,6682.734
+13,3,0,1,4,msgReceivedWords,"for ",701.4332,701.9532,6682.737,6683.257
+13,3,0,1,4,msgReceivedWords,"daily ",701.9665,702.5223,6683.27,6683.826
+13,3,0,1,4,msgReceivedWords,"life.",702.533,703.3228,6683.837,6684.626
+13,3,0,1,4,msgReceivedWords," ",703.3329,704.415,6684.637,6685.719
+13,3,0,1,4,msgReceivedWords,"It's ",704.4162,705.6643,6685.72,6686.968
+13,3,0,1,4,msgReceivedWords,"like,",705.666,706.735,6686.971,6688.04
+13,3,0,1,4,msgReceivedWords," ",706.7491,708.0764,6688.054,6689.381
+13,3,0,1,4,msgReceivedWords,"let's ",708.0826,708.6166,6689.387,6689.921
+13,3,0,1,4,msgReceivedWords,"prioritize ",708.6326,709.6,6689.938,6690.905
+13,3,0,1,4,msgReceivedWords,"safety ",709.6158,710.5963,6690.921,6691.901
+13,3,0,1,4,msgReceivedWords,"over ",710.5989,711.1949,6691.904,6692.5
+13,3,0,1,4,msgReceivedWords,"everything ",711.1989,712.3203,6692.504,6693.626
+13,3,0,1,4,msgReceivedWords,"else.",712.3319,713.7738,6693.638,6695.08
+13,3,0,1,4,msgReceivedWords," ",713.7819,715.0999,6695.088,6696.406
+13,3,0,1,4,msgReceivedWords,"What ",715.1151,715.8848,6696.421,6697.191
+13,3,0,1,4,msgReceivedWords,"about ",715.8983,716.4295,6697.205,6697.736
+13,3,0,1,4,msgReceivedWords,"regular ",716.4317,717.6357,6697.738,6698.942
+13,3,0,1,4,msgReceivedWords,"checks ",717.6484,718.9302,6698.955,6700.236
+13,3,0,1,4,msgReceivedWords,"on ",718.9318,720.1748,6700.238,6701.481
+13,3,0,1,4,msgReceivedWords,"gun ",720.1816,720.9214,6701.488,6702.228
+13,3,0,1,4,msgReceivedWords,"owners?</lowercase></lowercase>​",720.9315,722.2599,6702.238,6703.567
+13,3,0,1,4,msgReceived,"<lowercase><lowercase>Right? Completely unnecessary for daily life. It's like, let's prioritize safety over everything else. What about regular checks on gun owners?</lowercase></lowercase>​",697.5839,722.2647,6678.887,6703.572
+13,3,0,1,4,likeGiven,"+1",722.2647,724.881,6703.572,6706.189
+13,3,0,1,4,nodislikeGiven,"0",722.2647,732.2634,6703.572,6713.572
+13,3,0,1,4,totalLikesGiven,"1",722.2647,732.2634,6703.572,6713.573
+13,3,0,1,5,msgSent,"i think it should be like your passport or your drivers' license, but stricter. Maybe come back for a re evalulation every year to make sure your license is valid",733.2633,784.1061,6714.572,6765.426
+13,3,0,1,35,rewardPunish_4,"3",789.106,790.1226,6770.426,6771.443
+13,3,0,1,5,likeReceived,"1",791.3724,793.5387,6772.71,6774.86
+13,3,0,1,5,likeReceived,"1",793.5387,795.6382,6774.86,6776.96
+13,3,0,1,5,likeReceived,"1",795.6382,799.0209,6776.96,6780.344
+13,3,0,1,5,likesReceivedTotal,"2",791.3724,799.0209,6772.71,6780.344
+13,3,0,1,6,msgReceivedWords,"<lowercase><lowercase>That ",815.1014,815.7448,6796.429,6797.072
+13,3,0,1,6,msgReceivedWords,"sounds ",815.7515,816.4156,6797.079,6797.743
+13,3,0,1,6,msgReceivedWords,"pretty ",816.4181,817.4987,6797.745,6798.826
+13,3,0,1,6,msgReceivedWords,"sensible.",817.5013,818.7034,6798.829,6800.031
+13,3,0,1,6,msgReceivedWords," ",818.7178,819.5068,6800.045,6800.834
+13,3,0,1,6,msgReceivedWords,"Keeping ",819.5176,820.3041,6800.845,6801.632
+13,3,0,1,6,msgReceivedWords,"it ",820.3174,821.3795,6801.646,6802.708
+13,3,0,1,6,msgReceivedWords,"strict ",821.3838,822.8436,6802.712,6804.172
+13,3,0,1,6,msgReceivedWords,"with ",822.8503,823.4587,6804.179,6804.787
+13,3,0,1,6,msgReceivedWords,"annual ",823.4669,824.7426,6804.795,6806.071
+13,3,0,1,6,msgReceivedWords,"checks ",824.75,825.6288,6806.079,6806.958
+13,3,0,1,6,msgReceivedWords,"could ",825.6332,826.8765,6806.962,6808.206
+13,3,0,1,6,msgReceivedWords,"really ",826.883,827.7396,6808.212,6809.069
+13,3,0,1,6,msgReceivedWords,"help ",827.7496,828.6979,6809.079,6810.027
+13,3,0,1,6,msgReceivedWords,"improve ",828.6995,830.0496,6810.029,6811.379
+13,3,0,1,6,msgReceivedWords,"safety.",830.0493,830.7085,6811.379,6812.039
+13,3,0,1,6,msgReceivedWords," ",830.7159,831.8703,6812.046,6813.201
+13,3,0,1,6,msgReceivedWords,"How ",831.8824,832.4125,6813.213,6813.743
+13,3,0,1,6,msgReceivedWords,"do ",832.4156,833.4706,6813.746,6814.801
+13,3,0,1,6,msgReceivedWords,"you ",833.4821,834.9641,6814.813,6816.295
+13,3,0,1,6,msgReceivedWords,"feel ",834.9654,836.2698,6816.296,6817.601
+13,3,0,1,6,msgReceivedWords,"about ",836.2822,837.0674,6817.613,6818.398
+13,3,0,1,6,msgReceivedWords,"the ",837.0822,838.4474,6818.413,6819.778
+13,3,0,1,6,msgReceivedWords,"training ",838.4486,839.9266,6819.78,6821.258
+13,3,0,1,6,msgReceivedWords,"for ",839.9318,840.8149,6821.264,6822.147
+13,3,0,1,6,msgReceivedWords,"gun ",840.8149,841.4154,6822.147,6822.748
+13,3,0,1,6,msgReceivedWords,"owners?</lowercase></lowercase>​",841.4315,842.5018,6822.764,6823.834
+13,3,0,1,6,msgReceived,"<lowercase><lowercase>That sounds pretty sensible. Keeping it strict with annual checks could really help improve safety. How do you feel about the training for gun owners?</lowercase></lowercase>​",815.1014,842.5145,6796.428,6823.847
+13,3,0,1,6,likeGiven,"+1",842.5145,845.4142,6823.848,6826.748
+13,3,0,1,6,likeGiven,"+1",842.5145,845.6976,6823.848,6827.031
+13,3,0,1,6,nodislikeGiven,"0",842.5145,852.5138,6823.848,6833.848
+13,3,0,1,6,totalLikesGiven,"2",842.5145,852.5138,6823.848,6833.848
+13,3,0,1,13,feelings,"done",856.0466,859.046,6837.382,6840.381
+13,3,0,1,13,likability,"10",862.0124,866.9283,6843.349,6848.266
+13,3,0,1,13,likabilityRev,"8",870.8277,873.2939,6852.166,6854.633

@@ -1,0 +1,137 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+9,2,0,1,9,prompt,"Is healthcare a universal right or a personal responsibility?",366.0664,369.1507,4181.925,4185.008
+9,2,0,1,1,msgSent,"I do believe that health care is a universal right. It shouldnt depend on whether you have a job or not",369.1507,397.4431,4185.008,4213.293
+9,2,0,1,1,likeReceived,"1",402.4943,404.0448,4218.36,4219.894
+9,2,0,1,1,likeReceived,"1",404.0448,407.2792,4219.894,4223.127
+9,2,0,1,1,likeReceived,"1",407.2792,410.2135,4223.127,4226.061
+9,2,0,1,1,likeReceived,"1",410.2135,413.131,4226.061,4228.978
+9,2,0,1,1,likeReceived,"1",413.131,416.0818,4228.978,4231.928
+9,2,0,1,1,likesReceivedTotal,"4",402.4943,416.0818,4218.36,4231.928
+9,2,0,1,2,msgReceivedWords,"<lowercase>Totally ",436.2042,436.7931,4252.046,4252.635
+9,2,0,1,2,msgReceivedWords,"agree ",436.8044,438.0886,4252.646,4253.93
+9,2,0,1,2,msgReceivedWords,"with ",438.1046,439.377,4253.946,4255.219
+9,2,0,1,2,msgReceivedWords,"you! ",439.3885,440.7559,4255.229,4256.597
+9,2,0,1,2,msgReceivedWords,"Healthcare ",440.7722,441.3022,4256.613,4257.143
+9,2,0,1,2,msgReceivedWords,"should ",441.3056,442.4058,4257.146,4258.247
+9,2,0,1,2,msgReceivedWords,"definitely ",442.406,443.6835,4258.247,4259.524
+9,2,0,1,2,msgReceivedWords,"be ",443.6897,444.4232,4259.53,4260.263
+9,2,0,1,2,msgReceivedWords,"accessible ",444.4232,445.1147,4260.263,4260.955
+9,2,0,1,2,msgReceivedWords,"to ",445.1234,445.9664,4260.963,4261.806
+9,2,0,1,2,msgReceivedWords,"everyone,",445.9736,447.1946,4261.813,4263.035
+9,2,0,1,2,msgReceivedWords," ",447.2073,447.7755,4263.047,4263.615
+9,2,0,1,2,msgReceivedWords,"no ",447.7908,449.1097,4263.63,4264.949
+9,2,0,1,2,msgReceivedWords,"matter ",449.1246,450.5918,4264.964,4266.431
+9,2,0,1,2,msgReceivedWords,"their ",450.6083,451.893,4266.447,4267.732
+9,2,0,1,2,msgReceivedWords,"job ",451.9086,452.9139,4267.747,4268.752
+9,2,0,1,2,msgReceivedWords,"status.",452.9257,453.6642,4268.764,4269.502
+9,2,0,1,2,msgReceivedWords," ",453.676,454.489,4269.514,4270.327
+9,2,0,1,2,msgReceivedWords,"It’s ",454.4929,455.2403,4270.331,4271.078
+9,2,0,1,2,msgReceivedWords,"about ",455.2432,455.8048,4271.081,4271.642
+9,2,0,1,2,msgReceivedWords,"basic ",455.81,456.646,4271.647,4272.483
+9,2,0,1,2,msgReceivedWords,"human ",456.6602,457.9301,4272.498,4273.768
+9,2,0,1,2,msgReceivedWords,"rights,",457.944,458.9257,4273.781,4274.762
+9,2,0,1,2,msgReceivedWords," ",458.9276,460.2242,4274.764,4276.061
+9,2,0,1,2,msgReceivedWords,"right? ",460.228,461.1463,4276.064,4276.983
+9,2,0,1,2,msgReceivedWords,"</lowercase>​",461.1616,462.3051,4276.998,4278.142
+9,2,0,1,2,msgReceived,"<lowercase>Totally agree with you! Healthcare should definitely be accessible to everyone, no matter their job status. It’s about basic human rights, right? </lowercase>​",436.2042,462.3119,4252.046,4278.148
+9,2,0,1,2,likeGiven,"+1",462.3119,463.579,4278.148,4279.415
+9,2,0,1,2,likeGiven,"+1",462.3119,463.8958,4278.148,4279.732
+9,2,0,1,2,likeGiven,"+1",462.3119,464.0958,4278.148,4279.932
+9,2,0,1,2,likeGiven,"+1",462.3119,464.3125,4278.148,4280.148
+9,2,0,1,2,likeGiven,"+1",462.3119,465.1794,4278.148,4281.015
+9,2,0,1,2,nodislikeGiven,"0",462.3119,472.3148,4278.148,4288.149
+9,2,0,1,2,totalLikesGiven,"5",462.3119,472.3148,4278.148,4288.149
+9,2,0,1,3,msgSent,"I agree. I don't see how making it a personal responsibility can be beneficial",473.315,501.6732,4289.149,4317.501
+9,2,0,1,24,rewardPunish_2,"10",506.6747,509.859,4322.501,4325.685
+9,2,0,1,3,likeReceived,"1",511.9265,513.4767,4327.768,4329.302
+9,2,0,1,3,likeReceived,"1",513.4767,515.8264,4329.302,4331.652
+9,2,0,1,3,likesReceivedTotal,"1",511.9265,515.8264,4327.768,4331.652
+9,2,0,1,4,msgReceivedWords,"<lowercase><lowercase>Exactly,",539.9401,540.7896,4355.771,4356.62
+9,2,0,1,4,msgReceivedWords," ",540.8065,541.7737,4356.637,4357.604
+9,2,0,1,4,msgReceivedWords,"making ",541.7897,542.4064,4357.62,4358.237
+9,2,0,1,4,msgReceivedWords,"it ",542.4229,543.752,4358.254,4359.583
+9,2,0,1,4,msgReceivedWords,"a ",543.756,544.3357,4359.587,4360.167
+9,2,0,1,4,msgReceivedWords,"personal ",544.3392,545.289,4360.17,4361.12
+9,2,0,1,4,msgReceivedWords,"responsibility ",545.289,546.3558,4361.121,4362.188
+9,2,0,1,4,msgReceivedWords,"just ",546.3556,547.0497,4362.188,4362.882
+9,2,0,1,4,msgReceivedWords,"doesn't ",547.0556,547.7967,4362.887,4363.628
+9,2,0,1,4,msgReceivedWords,"work ",547.8055,549.1962,4363.637,4365.028
+9,2,0,1,4,msgReceivedWords,"for ",549.2054,550.3466,4365.038,4366.179
+9,2,0,1,4,msgReceivedWords,"everyone.",550.3551,550.9305,4366.188,4366.763
+9,2,0,1,4,msgReceivedWords,"</lowercase></lowercase>​",550.9384,552.2148,4366.771,4368.047
+9,2,0,1,4,msgReceived,"<lowercase><lowercase>Exactly, making it a personal responsibility just doesn't work for everyone.</lowercase></lowercase>​",539.9401,552.2214,4355.77,4368.054
+9,2,0,1,4,likeGiven,"+1",552.2214,554.4048,4368.055,4370.238
+9,2,0,1,4,likeGiven,"+1",552.2214,554.7714,4368.055,4370.605
+9,2,0,1,4,nodislikeGiven,"0",552.2214,562.2202,4368.055,4378.055
+9,2,0,1,4,totalLikesGiven,"2",552.2214,562.2202,4368.055,4378.055
+9,2,0,1,5,msgSent,"Right. Other countries, though they are much smaller have achieved it. i think the US can too",563.22,603.0144,4379.055,4418.858
+9,2,0,1,25,rewardPunish_4,"3",608.0141,610.9139,4423.858,4426.759
+9,2,0,1,5,likeReceived,"1",613.6302,615.6634,4429.492,4431.509
+9,2,0,1,5,likeReceived,"1",615.6634,618.6797,4431.509,4434.526
+9,2,0,1,5,likesReceivedTotal,"1",613.6302,618.6797,4429.492,4434.526
+9,2,0,1,6,msgReceivedWords,"<lowercase><lowercase>Yeah,",634.7778,636.1797,4450.627,4452.029
+9,2,0,1,6,msgReceivedWords," ",636.1942,636.7038,4452.044,4452.554
+9,2,0,1,6,msgReceivedWords,"looking ",636.7107,637.7014,4452.561,4453.551
+9,2,0,1,6,msgReceivedWords,"at ",637.7106,639.005,4453.561,4454.855
+9,2,0,1,6,msgReceivedWords,"those ",639.0103,639.6255,4454.861,4455.476
+9,2,0,1,6,msgReceivedWords,"countries ",639.6268,640.6425,4455.478,4456.493
+9,2,0,1,6,msgReceivedWords,"really ",640.6433,641.5907,4456.494,4457.441
+9,2,0,1,6,msgReceivedWords,"shows ",641.5931,643.0291,4457.444,4458.88
+9,2,0,1,6,msgReceivedWords,"it’s ",643.0427,643.6824,4458.895,4459.534
+9,2,0,1,6,msgReceivedWords,"possible.",643.6926,644.8125,4459.544,4460.665
+9,2,0,1,6,msgReceivedWords," ",644.8256,645.7602,4460.678,4461.612
+9,2,0,1,6,msgReceivedWords,"The ",645.7755,646.3426,4461.628,4462.195
+9,2,0,1,6,msgReceivedWords,"US ",646.3588,647.7436,4462.211,4463.596
+9,2,0,1,6,msgReceivedWords,"has ",647.7587,649.2072,4463.611,4465.06
+9,2,0,1,6,msgReceivedWords,"the ",649.2083,650.4862,4465.062,4466.339
+9,2,0,1,6,msgReceivedWords,"resources,",650.4915,651.3572,4466.345,4467.21
+9,2,0,1,6,msgReceivedWords," ",651.3581,652.709,4467.211,4468.563
+9,2,0,1,6,msgReceivedWords,"just ",652.7245,653.5512,4468.578,4469.405
+9,2,0,1,6,msgReceivedWords,"needs ",653.5577,654.5506,4469.412,4470.404
+9,2,0,1,6,msgReceivedWords,"the ",654.5575,655.2213,4470.412,4471.075
+9,2,0,1,6,msgReceivedWords,"will,",655.2241,655.79,4471.079,4471.645
+9,2,0,1,6,msgReceivedWords," ",655.7906,656.7665,4471.645,4472.621
+9,2,0,1,6,msgReceivedWords,"don’t ",656.7738,658.1287,4472.628,4473.983
+9,2,0,1,6,msgReceivedWords,"you ",658.1403,658.9623,4473.996,4474.818
+9,2,0,1,6,msgReceivedWords,"think?</lowercase></lowercase>​",658.9736,659.5196,4474.829,4475.375
+9,2,0,1,6,msgReceived,"<lowercase><lowercase>Yeah, looking at those countries really shows it’s possible. The US has the resources, just needs the will, don’t you think?</lowercase></lowercase>​",634.7778,659.5236,4450.627,4475.379
+9,2,0,1,6,likeGiven,"+1",659.5236,662.3396,4475.379,4478.196
+9,2,0,1,6,likeGiven,"+1",659.5236,662.6229,4475.379,4478.479
+9,2,0,1,6,nodislikeGiven,"0",659.5236,669.5218,4475.379,4485.379
+9,2,0,1,6,totalLikesGiven,"2",659.5236,669.5218,4475.379,4485.379
+9,2,0,1,7,msgSent,"I agree. It would be great to introduce universal healthcare policies",670.5216,710.651,4486.379,4526.516
+9,2,0,1,26,rewardPunish_0,"10",715.6556,717.4219,4531.516,4533.283
+9,2,0,1,7,likeReceived,"1",719.8716,721.5547,4535.75,4537.417
+9,2,0,1,7,likeReceived,"1",721.5547,723.1546,4537.417,4539.017
+9,2,0,1,7,likeReceived,"1",723.1546,725.7042,4539.017,4541.567
+9,2,0,1,7,likesReceivedTotal,"2",719.8716,725.7042,4535.75,4541.567
+9,2,0,1,8,msgReceivedWords,"<lowercase><lowercase>For ",757.8173,759.0763,4573.686,4574.945
+9,2,0,1,8,msgReceivedWords,"sure! ",759.0837,759.9421,4574.953,4575.811
+9,2,0,1,8,msgReceivedWords,"Introducing ",759.9502,760.9777,4575.819,4576.847
+9,2,0,1,8,msgReceivedWords,"universal ",760.9834,761.8482,4576.853,4577.718
+9,2,0,1,8,msgReceivedWords,"healthcare ",761.8499,763.154,4577.72,4579.024
+9,2,0,1,8,msgReceivedWords,"would ",763.1663,763.9794,4579.036,4579.849
+9,2,0,1,8,msgReceivedWords,"be ",763.9827,765.2852,4579.853,4581.155
+9,2,0,1,8,msgReceivedWords,"a ",765.2991,765.8668,4581.17,4581.738
+9,2,0,1,8,msgReceivedWords,"huge ",765.8823,766.4411,4581.753,4582.312
+9,2,0,1,8,msgReceivedWords,"step ",766.4488,767.1201,4582.32,4582.991
+9,2,0,1,8,msgReceivedWords,"forward.",767.132,767.6776,4583.003,4583.549
+9,2,0,1,8,msgReceivedWords," ",767.6819,768.2587,4583.553,4584.13
+9,2,0,1,8,msgReceivedWords,"It ",768.2651,769.2019,4584.137,4585.074
+9,2,0,1,8,msgReceivedWords,"could ",769.2149,770.3386,4585.087,4586.21
+9,2,0,1,8,msgReceivedWords,"really ",770.348,771.0326,4586.22,4586.905
+9,2,0,1,8,msgReceivedWords,"change ",771.0479,772.0703,4586.92,4587.943
+9,2,0,1,8,msgReceivedWords,"lives ",772.0811,772.6605,4587.954,4588.533
+9,2,0,1,8,msgReceivedWords,"for ",772.6644,773.176,4588.537,4589.049
+9,2,0,1,8,msgReceivedWords,"the ",773.1809,774.6294,4589.054,4590.502
+9,2,0,1,8,msgReceivedWords,"better.",774.6307,775.7791,4590.504,4591.652
+9,2,0,1,8,msgReceivedWords,"</lowercase></lowercase>​",775.7804,776.8923,4591.654,4592.766
+9,2,0,1,8,msgReceived,"<lowercase><lowercase>For sure! Introducing universal healthcare would be a huge step forward. It could really change lives for the better.</lowercase></lowercase>​",757.8173,776.8969,4573.686,4592.771
+9,2,0,1,8,likeGiven,"+1",776.8969,778.3302,4592.771,4594.205
+9,2,0,1,8,likeGiven,"+1",776.8969,778.6635,4592.771,4594.538
+9,2,0,1,8,likeGiven,"+1",776.8969,779.2968,4592.771,4595.171
+9,2,0,1,8,nodislikeGiven,"0",776.8969,786.8956,4592.771,4602.771
+9,2,0,1,8,totalLikesGiven,"3",776.8969,786.8956,4592.771,4602.771
+9,2,0,1,9,feelings,"vhappy",790.412,792.8948,4606.289,4608.772
+9,2,0,1,9,likability,"7",795.5443,799.1768,4611.422,4615.056
+9,2,0,1,9,likabilityRev,"8",802.0428,806.3088,4617.923,4622.19

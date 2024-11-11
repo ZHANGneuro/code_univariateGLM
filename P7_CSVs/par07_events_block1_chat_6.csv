@@ -1,0 +1,132 @@
+ChatID,BlockID,Order1,Order2,EventID,EventType,Value,StartTime,EndTime,StartRealTime,EndRealTime
+5,1,1,0,5,prompt,"What makes you laugh?",394.5586,398.1931,2076.324,2079.957
+5,1,1,0,1,msgSent,"A stand up comedy special typicalyl makes me laugh",398.1931,414.3471,2079.957,2096.108
+5,1,1,0,1,dislikesReceived,"4",419.3986,426.4506,2101.175,2108.209
+5,1,1,0,2,msgReceivedWords,"<lowercase>Stand ",446.5566,447.6743,2128.311,2129.428
+5,1,1,0,2,msgReceivedWords,"up ",447.6905,448.3648,2129.444,2130.118
+5,1,1,0,2,msgReceivedWords,"comedy? ",448.3738,449.599,2130.127,2131.352
+5,1,1,0,2,msgReceivedWords,"That's ",449.6075,450.3288,2131.361,2132.082
+5,1,1,0,2,msgReceivedWords,"so ",450.3412,451.2045,2132.094,2132.957
+5,1,1,0,2,msgReceivedWords,"basic.",451.2081,451.7291,2132.961,2133.482
+5,1,1,0,2,msgReceivedWords," ",451.7416,452.5236,2133.494,2134.276
+5,1,1,0,2,msgReceivedWords,"Honestly,",452.5253,453.2072,2134.278,2134.959
+5,1,1,0,2,msgReceivedWords," ",453.2089,454.3649,2134.961,2136.117
+5,1,1,0,2,msgReceivedWords,"it ",454.376,455.039,2136.128,2136.791
+5,1,1,0,2,msgReceivedWords,"takes ",455.0429,456.3885,2136.794,2138.14
+5,1,1,0,2,msgReceivedWords,"no ",456.3933,457.1881,2138.145,2138.939
+5,1,1,0,2,msgReceivedWords,"effort ",457.1934,457.7236,2138.945,2139.475
+5,1,1,0,2,msgReceivedWords,"to ",457.7269,458.8353,2139.478,2140.586
+5,1,1,0,2,msgReceivedWords,"laugh ",458.844,460.0194,2140.595,2141.77
+5,1,1,0,2,msgReceivedWords,"at ",460.0276,460.9245,2141.778,2142.675
+5,1,1,0,2,msgReceivedWords,"those ",460.928,462.4199,2142.678,2144.17
+5,1,1,0,2,msgReceivedWords,"overrehearsed ",462.4284,463.2112,2144.178,2144.961
+5,1,1,0,2,msgReceivedWords,"jokes.",463.212,464.6516,2144.962,2146.401
+5,1,1,0,2,msgReceivedWords," ",464.6623,465.1754,2146.412,2146.925
+5,1,1,0,2,msgReceivedWords,"What ",465.1791,466.0548,2146.928,2147.804
+5,1,1,0,2,msgReceivedWords,"about ",466.0627,467.2684,2147.812,2149.018
+5,1,1,0,2,msgReceivedWords,"humor ",467.2798,468.019,2149.029,2149.768
+5,1,1,0,2,msgReceivedWords,"that ",468.03,468.6284,2149.779,2150.377
+5,1,1,0,2,msgReceivedWords,"actually ",468.6302,469.2753,2150.379,2151.024
+5,1,1,0,2,msgReceivedWords,"makes ",469.2804,470.3841,2151.029,2152.133
+5,1,1,0,2,msgReceivedWords,"you ",470.3972,470.9765,2152.146,2152.725
+5,1,1,0,2,msgReceivedWords,"think?</lowercase>​",470.9807,472.3701,2152.729,2154.118
+5,1,1,0,2,msgReceived,"<lowercase>Stand up comedy? That's so basic. Honestly, it takes no effort to laugh at those overrehearsed jokes. What about humor that actually makes you think?</lowercase>​",446.5566,472.3812,2128.31,2154.129
+5,1,1,0,2,dislikeGiven,"+1",472.3812,476.0823,2154.129,2157.829
+5,1,1,0,2,dislikeGiven,"+1",472.3812,476.7826,2154.129,2158.53
+5,1,1,0,2,dislikeGiven,"+1",472.3812,477.2327,2154.129,2158.979
+5,1,1,0,2,totalDislikesGiven,"3",472.3812,482.3841,2154.129,2164.13
+5,1,1,0,2,noLikeGiven,"0",472.3812,482.3841,2154.129,2164.13
+5,1,1,0,3,msgSent,"I'd rather laugh about something thats dumb and funny, than at something that makes me have to think",483.3844,522.0087,2165.13,2203.749
+5,1,1,0,14,rewardPunish_2,"-3",527.0085,531.4413,2208.75,2213.183
+5,1,1,0,3,dislikesReceived,"4",532.8911,539.4399,2214.65,2221.184
+5,1,1,0,4,msgReceivedWords,"<lowercase><lowercase>Wow,",563.5358,564.4838,2245.286,2246.234
+5,1,1,0,4,msgReceivedWords," ",564.4858,565.6067,2246.236,2247.356
+5,1,1,0,4,msgReceivedWords,"so ",565.6189,566.1469,2247.369,2247.897
+5,1,1,0,4,msgReceivedWords,"you’re ",566.1521,566.6851,2247.902,2248.435
+5,1,1,0,4,msgReceivedWords,"telling ",566.6853,568.0953,2248.436,2249.846
+5,1,1,0,4,msgReceivedWords,"me ",568.1017,569.2717,2249.853,2251.023
+5,1,1,0,4,msgReceivedWords,"you ",569.2848,569.8044,2251.036,2251.555
+5,1,1,0,4,msgReceivedWords,"prefer ",569.8181,571.139,2251.569,2252.89
+5,1,1,0,4,msgReceivedWords,"mindless ",571.1511,572.4162,2252.903,2254.168
+5,1,1,0,4,msgReceivedWords,"entertainment? ",572.4179,573.7828,2254.169,2255.534
+5,1,1,0,4,msgReceivedWords,"Not ",573.7845,574.8294,2255.536,2256.581
+5,1,1,0,4,msgReceivedWords,"surprised.",574.8345,575.8693,2256.586,2257.621
+5,1,1,0,4,msgReceivedWords," ",575.8843,577.2955,2257.636,2259.048
+5,1,1,0,4,msgReceivedWords,"Some ",577.3006,577.9799,2259.053,2259.732
+5,1,1,0,4,msgReceivedWords,"people ",577.9838,579.3187,2259.737,2261.071
+5,1,1,0,4,msgReceivedWords,"just ",579.3336,580.2828,2261.087,2262.036
+5,1,1,0,4,msgReceivedWords,"can’t ",580.2834,581.7779,2262.037,2263.531
+5,1,1,0,4,msgReceivedWords,"handle ",581.7831,583.2393,2263.537,2264.993
+5,1,1,0,4,msgReceivedWords,"anything ",583.2495,584.7298,2265.004,2266.484
+5,1,1,0,4,msgReceivedWords,"intellectually ",584.7325,586.042,2266.487,2267.797
+5,1,1,0,4,msgReceivedWords,"stimulating,",586.049,587.4744,2267.804,2269.229
+5,1,1,0,4,msgReceivedWords," ",587.4821,588.1381,2269.237,2269.893
+5,1,1,0,4,msgReceivedWords,"huh?</lowercase></lowercase>​",588.1487,588.7032,2269.904,2270.458
+5,1,1,0,4,msgReceived,"<lowercase><lowercase>Wow, so you’re telling me you prefer mindless entertainment? Not surprised. Some people just can’t handle anything intellectually stimulating, huh?</lowercase></lowercase>​",563.5358,588.7153,2245.285,2270.471
+5,1,1,0,4,likeGiven,"+1",588.7153,591.0649,2270.471,2272.821
+5,1,1,0,4,nodislikeGiven,"0",588.7153,598.7137,2270.471,2280.471
+5,1,1,0,4,totalLikesGiven,"1",588.7153,598.7137,2270.471,2280.471
+5,1,1,0,5,msgSent,"tell me an intellectually stimulating joke then, if they're so funny",599.7135,633.4103,2281.471,2315.174
+5,1,1,0,15,rewardPunish_0,"-10",638.4094,642.9917,2320.174,2324.758
+5,1,1,0,5,dislikesReceived,"2",645.1246,648.4572,2326.908,2330.225
+5,1,1,0,6,msgReceivedWords,"<lowercase><lowercase>Why ",668.5542,669.9553,2350.327,2351.728
+5,1,1,0,6,msgReceivedWords,"would ",669.9706,671.3283,2351.743,2353.101
+5,1,1,0,6,msgReceivedWords,"I ",671.3372,672.1174,2353.11,2353.89
+5,1,1,0,6,msgReceivedWords,"waste ",672.1204,673.4729,2353.893,2355.246
+5,1,1,0,6,msgReceivedWords,"a ",673.4868,674.7529,2355.26,2356.526
+5,1,1,0,6,msgReceivedWords,"good ",674.7532,675.3156,2356.527,2357.089
+5,1,1,0,6,msgReceivedWords,"joke ",675.3198,676.2406,2357.094,2358.014
+5,1,1,0,6,msgReceivedWords,"on ",676.2529,676.8404,2358.027,2358.614
+5,1,1,0,6,msgReceivedWords,"someone ",676.8528,678.1293,2358.627,2359.903
+5,1,1,0,6,msgReceivedWords,"who ",678.1359,678.7178,2359.91,2360.492
+5,1,1,0,6,msgReceivedWords,"thrives ",678.7194,679.6596,2360.494,2361.434
+5,1,1,0,6,msgReceivedWords,"on ",679.6693,680.3884,2361.444,2362.163
+5,1,1,0,6,msgReceivedWords,"lowbrow ",680.4024,681.757,2362.177,2363.532
+5,1,1,0,6,msgReceivedWords,"humor? ",681.7688,683.1341,2363.544,2364.909
+5,1,1,0,6,msgReceivedWords,"You ",683.1351,683.8929,2364.911,2365.669
+5,1,1,0,6,msgReceivedWords,"wouldn't ",683.9017,685.3346,2365.677,2367.11
+5,1,1,0,6,msgReceivedWords,"get ",685.3348,686.162,2367.111,2367.938
+5,1,1,0,6,msgReceivedWords,"it ",686.168,687.1525,2367.944,2368.929
+5,1,1,0,6,msgReceivedWords,"anyway.",687.1677,688.0996,2368.944,2369.876
+5,1,1,0,6,msgReceivedWords,"</lowercase></lowercase>​",688.1009,689.14,2369.878,2370.917
+5,1,1,0,6,msgReceived,"<lowercase><lowercase>Why would I waste a good joke on someone who thrives on lowbrow humor? You wouldn't get it anyway.</lowercase></lowercase>​",668.5542,689.1507,2350.326,2370.928
+5,1,1,0,6,likeGiven,"+1",689.1507,693.384,2370.928,2375.162
+5,1,1,0,6,nodislikeGiven,"0",689.1507,699.1495,2370.928,2380.929
+5,1,1,0,6,totalLikesGiven,"1",689.1507,699.1495,2370.928,2380.929
+5,1,1,0,7,msgSent,"Well, that's one way to call yourself out. Looks like you don't know any jokes to tell me any jokes huh?",700.1494,744.642,2381.929,2426.432
+5,1,1,0,16,rewardPunish_4,"-3",749.6412,755.5407,2431.432,2437.333
+5,1,1,0,7,dislikesReceived,"4",758.024,765.4233,2439.833,2447.217
+5,1,1,0,8,msgReceivedWords,"<lowercase><lowercase>Calling ",789.5195,790.0258,2471.319,2471.825
+5,1,1,0,8,msgReceivedWords,"myself ",790.0361,791.028,2471.835,2472.827
+5,1,1,0,8,msgReceivedWords,"out? ",791.0358,792.3856,2472.835,2474.185
+5,1,1,0,8,msgReceivedWords,"Nice ",792.3856,793.4576,2474.185,2475.257
+5,1,1,0,8,msgReceivedWords,"try ",793.4688,794.7397,2475.269,2476.54
+5,1,1,0,8,msgReceivedWords,"turning ",794.7518,795.5501,2476.552,2477.35
+5,1,1,0,8,msgReceivedWords,"this ",795.5516,796.0858,2477.352,2477.886
+5,1,1,0,8,msgReceivedWords,"around.",796.1016,796.8867,2477.902,2478.688
+5,1,1,0,8,msgReceivedWords," ",796.9014,797.4696,2478.702,2479.271
+5,1,1,0,8,msgReceivedWords,"Admit ",797.4846,798.0565,2479.286,2479.858
+5,1,1,0,8,msgReceivedWords,"it,",798.0679,799.3018,2479.869,2481.103
+5,1,1,0,8,msgReceivedWords," ",799.3177,800.0042,2481.119,2481.806
+5,1,1,0,8,msgReceivedWords,"you ",800.0176,800.6345,2481.819,2482.436
+5,1,1,0,8,msgReceivedWords,"just ",800.6508,801.4322,2482.453,2483.234
+5,1,1,0,8,msgReceivedWords,"can’t ",801.434,801.9969,2483.236,2483.799
+5,1,1,0,8,msgReceivedWords,"appreciate ",802.0005,802.961,2483.803,2484.763
+5,1,1,0,8,msgReceivedWords,"clever ",802.9671,804.1585,2484.769,2485.961
+5,1,1,0,8,msgReceivedWords,"humor.",804.1672,805.3732,2485.969,2487.176
+5,1,1,0,8,msgReceivedWords," ",805.3839,806.5157,2487.186,2488.318
+5,1,1,0,8,msgReceivedWords,"Stick ",806.517,807.5613,2488.32,2489.364
+5,1,1,0,8,msgReceivedWords,"to ",807.5668,809.0397,2489.37,2490.843
+5,1,1,0,8,msgReceivedWords,"your ",809.0503,809.8458,2490.853,2491.649
+5,1,1,0,8,msgReceivedWords,"simple ",809.8503,810.912,2491.653,2492.715
+5,1,1,0,8,msgReceivedWords,"stuff.",810.9169,811.6475,2492.72,2493.451
+5,1,1,0,8,msgReceivedWords,"</lowercase>​</lowercase>​",811.6501,812.541,2493.453,2494.344
+5,1,1,0,8,msgReceived,"<lowercase><lowercase>Calling myself out? Nice try turning this around. Admit it, you just can’t appreciate clever humor. Stick to your simple stuff.</lowercase>​</lowercase>​",789.5195,812.55,2471.318,2494.354
+5,1,1,0,8,dislikeGiven,"+1",812.55,816.6328,2494.354,2498.438
+5,1,1,0,8,dislikeGiven,"+1",812.55,817.066,2494.354,2498.871
+5,1,1,0,8,dislikeGiven,"+1",812.55,817.3493,2494.354,2499.154
+5,1,1,0,8,totalDislikesGiven,"3",812.55,822.5485,2494.354,2504.354
+5,1,1,0,8,noLikeGiven,"0",812.55,822.5485,2494.354,2504.354
+5,1,1,0,5,feelings,"done",826.0813,833.5799,2507.888,2515.388
+5,1,1,0,5,likability,"0",836.4961,843.0115,2518.306,2524.823
+5,1,1,0,5,likabilityRev,"0",845.3943,848.9271,2527.206,2530.74
